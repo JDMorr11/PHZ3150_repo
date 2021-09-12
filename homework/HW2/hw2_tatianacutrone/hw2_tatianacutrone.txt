@@ -1,0 +1,135 @@
+Tatiana Cutrone
+
+Log for PHZ 3150, Fall 2021
+
+*****IN: Thur Aug 26 12:00:00 PM EST 2021
+
+Made a directory for the class here:
+
+/home/tatianacutrone/phz3150/
+
+Opened gedit, started this log, saved as:
+
+/home/tatianacutrone/phz3150/0-phz3150-tatianacutrone.log
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+Name: Tatiana Cutrone
+
+Email: tatianacutrone756@knights.ucf.edu
+  Phone: 570-472-7017
+
+Major: Photonics and Optics Engineering
+
+Year: 2021
+
+ID: 5293824
+
+How did you hear about this course? It was suggested to me by my guidance counselor.
+
+Do you have a laptop you can bring to class, install software on, etc.? Yes
+
+What operating system and version does it run? macOS 11.5.1
+
+How much free disk space does it have? 159 GB
+
+What operating systems are you comfortable working in? macOS
+
+What computer classes have you taken, including high school, extracurricular, etc.? None
+
+Have you ever programmed a computer? No
+
+In what language(s)? n/a
+
+Summarize your experience: n/a
+
+Have you taken statistics or probability? No
+
+Why are you taking this course? To learn become more experienced with computers.
+
+Are there particular topics you hope to learn? Code
+
+If you have worked with scientific data or modeling before, briefly describe your experience: None
+
+Have you ever been involved with a science club or similar? None
+
+If so, describe: None
+
+The PDF 'Think Python' was downloaded from the following link:
+
+https://greenteapress.com/thinkpython/thinkpython.pdf
+
+The directory /home/tatianacutrone/PHZ3150/books/ was created by opening folder 'PHZ3150', and right clicking empty space to select 'New Folder'
+
+The directory /home/tatianacutrone/PHZ3150/handin/ was created by opening folder 'PHZ3150', and right clicking empty space to select 'New Folder'
+
+After downloading PDF 'Think Python' from , file was saved into 'books' folder in the PHZ3150 directory
+
+*****OUT: Thur Aug 26 14:03:16 PM EST 2021
+
+*****IN: Wed Sep  1 14:15:25 EDT 2021
+
+Update: directory for class changed from:
+/home/tatianacutrone/phz3150/ to: /phz3150/
+
+Opened gedit, saved this log as:
+
+/Users/Tatiana/Desktop/phz3150/0-phz3150-tatiana.log
+
+After downloading 'Anaconda-Navigator' from the following link:
+
+https://docs.anaconda.com/anaconda/install/mac-os/
+
+I saved 'Anaconda-Navigator' to /Users/Tatiana/Desktop/
+
+From 'Anaconda-Navigator', I launched 'Jupyter Notebook' latest version: 6.3.0
+
+Once 'Jypter Notebook' opened, Shift+Command+3 is pressed to screenshot the page
+
+Screenshot saved as /hw2_sc1_tatianacutrone_pdf/
+
+file: /hw2_sc1_tatianacutrone_pdf/ saved to: /Users/Tatiana/Desktop/phz3150/handin/hw2/
+
+'Github Desktop' installed from link:
+
+https://guides.github.com/activities/hello-world/
+
+I saved 'Github Desktop' to /Users/Tatiana/Desktop/
+
+From 'Github Desktop', I created an account with my school email:
+
+tatianacutrone756@knights.ucf.edu
+
+Github account username created: 'TatianaCutrone'
+
+Account Synced with classroom phz3150/phz3150_main_dir
+
+Once Synced with classroom, Shift+Command+3 is pressed to screenshot the page
+
+Screenshot saved as /hw2_sc2_tatianacutrone_pdf/
+
+file: /hw2_sc2_tatianacutrone_pdf/ saved to: /Users/Tatiana/Desktop/phz3150/handin/hw2/
+
+English sentence with incorrect tokens: I cooked $paghetti for dinner.
+
+This sentence is incorrect because the '$' used instead of 'S' cannot be processed in the word Spaghetti by a computer because the word doesn't exist in the natural language but a human that isn't limited to a programmed language can read it.
+
+English sentence with incorrect syntax: I walked my dog with my mom.
+
+This sentence is incorrect because a computer would read it as if you are walking your dog and your mom because a comma is missing but a human can logically put the sentence together that you are walking the dog with your mother without needing a comma in place.
+
+After GitHub Hello World tutorial completed through link:
+
+https://guides.github.com/activities/hello-world/
+
+Following directions through Github Hello World tutorial link:
+
+https://github.com/TatianaCutrone/hello-world
+
+After struggling and maybe not even doing it right, Shift+Command+3 is pressed to screenshot the page
+
+Screenshot saved as /hw2_sc3_tatianacutrone_pdf/
+
+file: /hw2_sc3_tatianacutrone_pdf/ saved to: /Users/Tatiana/Desktop/phz3150/handin/hw2/
+
+***** Wed Sep  1 23:56:28 EDT 2021

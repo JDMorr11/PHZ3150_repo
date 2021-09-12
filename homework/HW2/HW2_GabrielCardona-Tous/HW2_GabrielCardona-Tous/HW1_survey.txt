@@ -1,0 +1,119 @@
+Gabriel Cardona-Tous
+Log for PHZ 3150, Fall 2021
+
+HW 1
+
+*****IN: Wed Aug 14:27:00 EST 2021
+
+Made Directory for the class at: /Users/Gabri/PHZ3150/
+by going under the directory /Users/Gabri/ and right clicking to create a new directory
+
+Opened Notebook on Windows, started this log saved as: 
+
+/Users/Gabri/PHZ3150/HW1_GabrielCardonaTous.txt
+
+Then I cope pasted the questionnaire and filled it in:
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+           Name: Gabriel Cardona-Tous
+          Email: gabrielcardona@knights.ucf.edu
+	  Phone: 787-975-7070
+          Major: Physics with a track in Astronomy
+           Year: Sophomore (2nd year)
+             ID: 5092552
+
+How did you hear about this course? Through the planetary sciences website.
+
+Do you have a laptop you can bring to class, install software on, etc.? I do have a laptop that I can bring to class
+
+What operating system and version does it run? It runs Windows 11
+
+How much free disk space does it have? It has 161 GB left of free space
+
+What operating systems are you comfortable working in? I am comfortable working with Windows, it is all I have ever used
+
+What computer classes have you taken, including high school,
+extracurricular, etc.?   I have taken no computer classes nor joined any computer clubs, nor have been involved in any computer extracurricular activities
+
+Have you ever programmed a computer? I have never programmed a computer
+
+   In what language(s)? None
+
+   Summarize your experience: None
+
+Have you taken statistics or probability? I have not taken statistics nor probability
+
+Why are you taking this course? I am taking this course because I want to start learning how to program
+
+Are there particular topics you hope to learn? I am interested in plots and simulations
+
+If you have worked with scientific data or modeling before, briefly
+describe your experience: I have worked with scientific data, in terms of labs and that kind of stuff
+
+Have you ever been involved with a science club or similar?  If so,
+describe: I have been in the Astronomy Club in my high school and the Science Club, I am thinking about joinin the Astronomy club, SEDS, and SPS at UCF
+
+
+Made a directory for the books under /Users/Gabri/PHZ3150/Books
+by going under /Users/Gabri/PHZ3150 directory and right clicking to create a new directory
+
+Downloaded the book from the URL: https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
+Moved the book to the directory /Users/Gabri/PHZ3150/Books/ using the drag and drop feature
+
+Made the handin directory /Users/Gabri/PHZ3150/Handin
+By going under /Users/Gabri/PHZ3150/Handin and right clicking to create a new directory
+
+Gabriel Cardona-Tous
+Log for PHZ 3150, Fall 2021
+
+HW 2
+
+*****In: Wed Sep 1 21:32:00 EST 2021
+            
+Made directory for Homework 2 under: Users/gabri/PHZ3150/handin/HW2_GabrielCardona-Tous
+            
+1a) Downloaded the 20.04.3 LTS Ubuntu application from the Windows app store on the laptop into: Windows subsystem for Linux
+    
+I updated and upgraded the software using the sudo apt update and sudo apt upgrade commands in Ubuntu.
+
+I installed Miniconda Python37 64-bit using URL: https://conda.io/miniconda.html to Users/gabri
+        
+I installed the additional packages numpy, scipy, 7.26.0 ipython, and matlolib with the following respective 
+commands in the anaconda prompt: conda install (numpy, scipy, ipython, and matlolib) individually in that order
+    
+Following those installations, I used conda install to install the Jupyter notebook files into Users/gabri/miniconda3/scripts
+
+I downloaded Emacs for Windows (macs-25.31-x8664.zip) using the URL: http://ftp.gnu.org/gnu/emacs/windows/emacs-25/
+        
+
+I opened a BASH terminal and used the command sudo apt install git to install the git for the shell
+Then, I proceeded to use the URL:https://git-scm.com/download/win to download the
+64-bit Git for Windows Setup with the basic settings
+
+I used command python3 to find the version of python, I got: Python 3.8.10
+    
+I used the snip tool to take a screenshot of the Jupyter notebook and uploaded it to Users/gabri/PHZ3150/handin/HW2_GabrielCardona-Tous
+    
+    
+1b) I used the snip tool to take a screenshot of the Github desktop that I had already synced with phz3150/phz3150_main_dir
+and uploaded it to Users/gabri/PHZ3150/handin/HW2_GabrielCardona-Tous
+
+2) English sentence that has correct syntax but incorrectt tokens: H3llo every0ne, I 4m G4bri3l
+   English sentence that has incorrect syntax and correct tokens: I are bad inside coding
+    
+What main “feature” of natural languages prevents their use (so far) as programming languages, and why?
+There are various reasons that natural human lanugages could not go far as programming languages. I think that
+the first reason would be because the computers work by the very strict rules that we have to put on them so that
+they know exactly what to do. In addition, English sentences can be vague because they are meant to understand the
+scenario, and the happenstance; however, in programming languages you would have to give every single variable and how
+they exactly behave during the entire scenario, which could not be done in English, or would simply just be a too hard
+and/or tedious process.
+
+3) I used the URL: https://guides.github.com/activities/hello-world and completed the tutorial.
+        
+OUT***** Wed Sep 1 23:44:00 EST 2021
+
+
+*****OUT: Wed Aug 26 14:51:00 EST 2021
