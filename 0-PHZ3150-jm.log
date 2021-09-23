@@ -235,3 +235,31 @@ took a screenshot of github with win+ prtsc
 named it hw4_JaMor_prob5_handincommit
 
 *****OUT: Sun Sep 12 18:29:34 EDT 2021
+
+*****IN: Wed Sep 22 19:20:00 EDT 2021
+
+HW5
+Problem 1
+made folder hw5_jacobmorrissey in handin folder
+opened jupyter notebook
+created new notebook called hw5_jacobmorrissey
+Problem 2
+made lists using list(range(0,100,10)) and 1000,100
+assumed the 3rd element refers to velocity[3], velocity[0] being the 0th
+Problem 3
+had to look up the shape function
+for array x it's x.shape
+Problem 4
+made a new notebook called my_functions
+made a separate folder in my notebooks folder called functions
+made the function ft_to_m_cm, downloaded it as ft_to_m_hw5.py
+made a separate foler for homework in my notebooks folder
+Problem 5
+made displacement_hw5 file with my displacement function
+kept getting an error from using ^ instead of **
+same error after changing operand
+restarting jupyter fixed the error
+Problem 6
+copied notebook and function files into handin/hw5_JacobMorrissey
+committed changes on github desktop with the message 'HW6' and pushed
+
