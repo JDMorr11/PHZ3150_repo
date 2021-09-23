@@ -1,0 +1,54 @@
+This is a file of useful things you can do in emacs:
+
+
+
+1. Run commands more than once:
+Esc- <number of times to run command> <command or keystroke>
+
+Run something four times, or define an argument for it (depends on the
+command):
+C-u <command or keystroke>
+To run something 16, 64, 256, ... times, type C-u more than once.
+
+
+
+2. Keyboard macros.  These are sequences of editing commands you can
+do at will.  They are useful for rearranging tables or processing data
+files from one format into another.  For example, if you have a file
+of postal-form addresses and you want to make a list with columns for
+name, street address, city, state, and postal code, you could easily
+define a keyboard macro and then execute it hundreds of times with a
+few keystrokes.
+
+Type:
+C-x (
+to start defining a keyboard macro.
+
+Type the editing commands.  Do not use the mouse.  If it's a macro you
+might execute more than once, be sure to leave your cursor in the
+right place for that.
+
+Type:
+C-x )
+to finish defining the keyboard macro.
+
+Type:
+C-x e
+to execute the macro.  If you want to execute it again right away,
+just type:
+e
+
+If you are making a keyboard macro and make a mistake you can't
+correct, type:
+C-g
+to "ring the bell" and stop defining the macro.
+
+To name the macro, type:
+M-x name-last-keyboard-macro
+
+This lets you run it with:
+M-x <name of macro>
+
+This is more cumbersome than C-x e, but it lets you define more than
+one macro.  There is a great deal more possible with keyboard macros.
+Google!

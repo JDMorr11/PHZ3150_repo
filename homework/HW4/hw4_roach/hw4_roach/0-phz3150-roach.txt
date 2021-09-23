@@ -1,0 +1,353 @@
+Franley Casado
+
+Log for PHZ 3150, Fall 2021
+
+***** IN: Thurs Aug 26 19:22:30 EST 2021
+
+Made a directory for PHZ 3150 in the following:
+
+/home/Users/roach/Documents/UCF/phz3150
+
+Began to work on file organization. Created various directories to organize class-related content. Saved this text file beneath the following:
+
+/home/Users/roach/documents/UCF/phz3150/homework/hw1_roach
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+           Name: Franley Casado 
+          Email: Franley2002@knights.ucf.edu
+	  Phone: 201-875-0018
+          Major: Optics and Photonics Engineering
+           Year: 2021
+             ID: 4832208
+
+How did you hear about this course?
+
+Mike McKee, my guidance counselor, heard that many people attempting EGN 3211 were having an excessively difficult time trying to pass the class with no prior coding experience.
+After I withdrew from the class, he told me he'd work on a different alternative that would be simpler, seeking mostly a class that uses Python. PHZ 3150 fit the criteria.
+
+Do you have a laptop you can bring to class, install software on, etc.?
+
+Yep! Although I'm rather terrible when working on computers because I really truly lack any knowledge whatsoever about my PC even though I've owned various Windows PCs throughout the years.
+
+What operating system and version does it run?
+
+It is Windows, version 10. So Windows 10 I suppose.
+
+How much free disk space does it have?
+
+72.9 Gigabytes. Most of the used up space is installed videogames and their files, so I can free up more space anytime. Although I read we only really need 20 gigs for this class.
+
+What operating systems are you comfortable working in?
+
+Having used a bit of mac, I don't mind using it on occasion. But I've used so many Windows PCs that it's become my favorite.
+
+What computer classes have you taken, including high school,
+extracurricular, etc.?
+
+I took a class in high school that certified me in Microsoft. That's about it really. I've used Jupyter before in Physics classes but following instructions very very strictly because
+I don't know even a little bit about programming.
+
+Have you ever programmed a computer?
+
+Not once ever in my lifetime.
+   In what language(s)?
+n/a
+   Summarize your experience:
+n/a
+
+Have you taken statistics or probability?
+
+I have not. I opted to take other math and physics classes instead.
+
+Why are you taking this course?
+
+Mostly to move forward and fulfill this requirement in my major. I will admit, however, that I truly am fascinated with anything relating to coding and so on and so forth. Even if I have no
+idea what I am doing 95% of the time. Seriously, once I figure something out it doesn't take long to do it, so I'm basically just staring at my screen trying to understand what I'm looking at.
+
+Are there particular topics you hope to learn?
+
+I want to find a way to use Python to do calculations for me. That's what I really seek but if I can master the kind of organization my professor asks of me, I may just be much much better
+off after the class and try to use the formatting for future classes.
+
+If you have worked with scientific data or modeling before, briefly
+describe your experience:
+
+Unsure if this counts, but back in Physics 2 I worked in a lab group to plot and model data. I was following instructions very very closely and as a result I didn't actually learn much
+but I used Jupyter notebook for simple calculations using the data and plotted graphs which I saved as images and presented in the assignment document.
+
+Have you ever been involved with a science club or similar?  If so,
+describe:
+
+No.
+
+Created a directory beneath "phz3150" titled books, for extremely obvious purposes:
+
+/home/Users/roach/Documents/UCF/phz3150/books
+
+And downloaded the Think Python book into it, by pressing the download button and placing it beneath "books":
+
+https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
+***** OUT: Thurs Aug 26 20:14:15 EST 2021
+
+***** IN: Wed Sep 1 21:33:22 EST 2021
+
+Problem 1:
+
+Related files: "prob1_screenshot" directory
+
+For problem 1, a bulk of my installation was already completed. I already had the Anaconda Navigator and as a result didn't have to focus much on the later parts of the installation process.
+Instead, most of my efforts were solely around Ubuntu and Miniconda, although my Anaconda Navigator had most sections installed already, including Jupyter Notebook and Spyder. Due to the
+installation of these being done a little before the Covid pandemic began, I have little recollection of how I installed those portions or how I downloaded them fully, please excuse this.
+
+Ubuntu was installed at some point between Monday and Tuesday. I completed up to 1.5 but it is within this logged entry that I completed the Ubuntu software, namely the "Bash_aliases"
+which was giving me a very large amount of issues, because I'm rather stupid when it comes to computers. It took an incredibly long time because I needed to figure out EXACTLY how to path
+the Bash_Aliases. Thanks to one of my programmer friends, I was able to figure out how to use the "Copy Path" button, which lies at the top of the file explorer. This button saved my life,
+and I sincerely recommend you add this button into the installation instructions PDF at some point in the coming years. 
+
+Miniconda: I used the link "https://docs.conda.io/en/latest/miniconda.html" to very specifically download miniconda with python 3.7 64-bit. Upon attaining it, I quickly updated it and
+began to install all the software necessary: numpy scipy ipython matplotlib. I avoided installing Jupyter and Spyder on Miniconda because my Anaconda Navigator already has these. Moving on.
+
+Emacs: I used the link "http://ftp.gnu.org/gnu/emacs/windows/emacs-25/" to download "emacs-25.31-x86_64.zip" onto my computer. I extracted the zip into "C:/Users/roach/bin" and decided to
+leave it there since that's also where I have my Miniconda files. I pinned runemacs.exe onto my taskbar. If I change its placement, I'll be sure to mention it later.
+
+Git: I followed the prompts for git on Linux and finalized it in seconds. As for the Windows section, I used the link "https://git-scm.com/download/win" and downloaded Git for my 64-bit
+Windows, following all the instructions. 
+
+Anaconda: The navigator was installed into my computer long ago before Covid started. It was for a Physics lab (Physics 1 or 2) and used it. Out of curiousity I downloaded pretty much every
+feature that caught my eye, which is detailed within one of my Anaconda Navigator screenshots (Everything that says "launch" is installed). I take every single screenshot on my computer
+with the "prt scr" button, and then ctrl+v into a word document where I crop and download the files. My Python version on Jupyter notebook is Python 3.
+
+Github: I used this link "https://desktop.github.com/" to download 64-bit Windows Github Desktop onto my computer. I synced it up with "phz3150/phz3150_main_dir" just as the instructions
+asked and used "prt scr" to screenshot.
+
+Problem 2:
+
+English Sentence with Correct Syntax: I @m @ f00l, I wi$h I h@d d0n3 this 3@rli3r 
+English Sentence with Correct Tokens: Wish Had Fool Done A Earlier I Am
+
+The main feature of normal language that prevents programs from using it is the lack of special characters which are needed to define certain commands, such as "-" and quotations which
+are needed to define specific parameters. Human beings also don't abbreviate verbs into shorter forms, such as "remove" being "rm" in Ubuntu.
+
+Problem 3:
+
+Related Files: "prob3_screenshot" directory
+
+Github Tutorial: I fired up Github Desktop and began to follow the instructions on screen. I have screenshots of each instance, all taken with "prt scr". I edited the README.md file with
+my notepad and saved it. In my screenshots, the "readme-edits" section now has a unique version of the "README.md" file. From this point onward, I could not complete the "Pull Requests"
+section and had to redo the entire process on the Github site, to my absolute dismay. After completing everything within the tutorial (With various screenshots), I completed the rest of
+question 3 (See screenshots for proof) and began working on the zip file. 
+
+***** OUT: Thurs Sep 2 03:09:15 EST 2021
+
+***** IN: Wed Sep 8 18:26:55 EST 2021
+
+It's time to start working on the homework assignment. I've been looking at it every so often but its only at this time that I truly begin
+to work on it.
+
+Problem 1:
+
+I created a directory titled "hw3_roach" beneath the homework directory. The path is as follows:
+
+"C:\Users\roach\Documents\UCF\phz3150\homework\hw3_roach"
+
+Here I will place all of my solutions for the homework
+
+Problem 2:
+
+a) I opened Ubuntu on my Windows computer. I then typed "ls" to find my current location,
+which was beneath the "franleyc" directory within the Linux side of my computer. The path
+is as follows:
+
+"C:\Users\roach\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\franleyc"
+
+I then used the command "mkdir hw3_roach" to create a directory. After this I typed "cd hw3_roach" to make it my current directory. Typing
+"ls" listed nothing, which means I am in the right place.
+
+b) Typing "date" into Ubuntu gave me the following text, which lists date and time:
+
+"Wed Sep  8 18:48:04 EDT 2021"
+
+c) Next up, I moved up one directory by using "cd ..", which I immediately verified using "ls", which listed "hw3_roach" as beneath me.
+
+d) As in part c, I listed and showed that "hw3_roach" was beneath me. I typed "rm -r hw3_roach" into the command line and was given the
+following choice:
+
+"rm: remove directory 'hw3_roach'?"
+
+I responded to this with "y". One "ls" command later and "hw3_roach" is no more. Truly a terrifying command!
+
+e) I typed "ls -lhtr" and it gave me an output that I screenshotted using my "prt scr" key. I cropped and renamed the screenshot to 
+"prob2e_screenshot". It also shows some of my previous steps. Neat!
+
+Problem 3: 
+
+a) I setup this section in class. I created the directory "testing_git", initialized git, and then wrote the following commands to setup my
+name and email:
+
+"git config --global user.name Franley2002" #sets my username from this account
+
+"git config --global user.email franley2002@knights.ucf.edu" #sets my email from this account
+
+I verified this by going underneath the "franleyc" directory on my Linux-side and reading ".gitconfig" using Notepad. I screenshotted this
+and put it underneath the "hw3_roach" folder as "prob3a_screenshot".
+
+b) This part stumped me pretty hard, but anyways here goes the explanation. I opened up Github Desktop, then went to the following directory:
+
+"C:\Users\roach\Documents\GitHub\phz3150_main_dir-Franley2002\HW\HW3"
+
+There, I pasted my log, and then went back to Github Desktop and saw there was a change I needed to commit. I committed it (Although I didn't get a screenshot of the particular message, but I believe it was "push to origin" or something to that effect) and then opened up Github on my web browser. There, I saw the change and that I now have a backup for my log. 
+
+c) This part will follow the same solution as part b. I went to the following directory:
+
+"C:\Users\roach\Documents\GitHub\phz3150_main_dir-Franley2002"
+
+and copy pasted my homework folder(I have it named as "homework" instead of "handin" because its easier for me personally). This prompted
+me to begin navigating committing the files to Github. I have screenshots of this process named "prob3c_screenshot" and "prob3c_screenshot2".
+
+d) I went to Webcourses and downloaded "test.dat", then moved it to my hw3_roach folder.
+
+"C:\Users\roach\Documents\GitHub\phz3150_main_dir-Franley2002\homework\hw3_roach"
+
+I then took a screenshot of the pre-committed Github Desktop telling me a change is present. I gave the commit the following comment:
+
+"im gonna destroy this file in like 2 minutes"
+
+I committed the file and then ensured it appeared on my official Github site.
+
+e) This part. I decided to make the first change an update of this log. I did this by using "ctrl+c" on this log and then going to the 
+following directory: 
+
+"C:\Users\roach\Documents\GitHub\phz3150_main_dir-Franley2002\homework\hw3_roach"
+
+then using "ctrl+v" to paste it. I replaced the file and essentially force it to update. I made another screenshot of the committing process and added it to my hw3_roach folder. This is edit 1.
+
+Edit 2 came from a friend's suggestion. He suggested I(temporarily) tried moving a rather comical .png file into my backup. This file was located at the following area:
+
+"C:\Users\roach\Pictures\EmojiMorphine2.png"
+
+I used "ctrl+c" and went to the following area:
+
+"C:\Users\roach\Documents\GitHub\phz3150_main_dir-Franley2002"
+
+where I used "ctrl+v" to paste it. Once this was done, I committed it with the following message:
+
+"I consume morphine in unhealthy doses (delete this file)"
+
+I then went back to where I pasted the file and deleted it, which allowed me to commit the delete to my backup.
+
+f) I opened my Ubuntu software and navigated to the Github Repository using the following command:
+
+"cd mnt\C:\Users\roach\Documents\GitHub\phz3150_main_dir-Franley2002"
+
+I then used the command "git log" to take the screenshot known as "prob3f_screenshot" and put it within my hw3_roach directory.
+
+Problem 4:
+
+In order to complete the zipping process, I need to use the following command:
+
+"zip -r hw3_roach.zip hw3_roach"
+
+***** OUT: Wed Sep 8 21:49:59 EST 2021
+
+***** IN: Wed Sep 15 21:49:21 EST 2021
+
+Problem 1: 
+
+I went under my homework folder and created "hw4_roach". 
+
+"C:\Users\roach\Documents\UCF\phz3150\homework\hw4_roach"
+
+I then copy pasted this beneath my Github and pushed it onto my backup.
+
+"C:\Users\roach\Documents\GitHub\phz3150_main_dir-Franley2002\homework\hw4_roach"
+
+I then began setting up for Problem 2. I opened up Jupyter notebook and navigated to my homework file, then created a new python notebook, titled "hw4_roach".
+
+"C:\Users\roach\Documents\UCF\phz3150\homework\hw4_roach"
+
+Problem 2:
+
+I read the instructions and setup my first line, which had my name, date, and assignment number, and then opened up the Python demo to 
+reference it as I worked through the assignment.
+
+I wrote my first function, docstring and all. I then used ctrl+c and ctrl+v to follow the same format and same content, then switched around variables and descriptions, to save time. Because I have homework due at midnight and I have 90 minutes left before its due. I love working against the clock evidently.
+
+Problem 3: 
+
+Gotta import it huh? Interesting. Well, I went to the same area where I saved the initial homework file and then created a new Jupyter notebook.
+
+"C:\Users\roach\Documents\UCF\phz3150\homework\hw4_roach"
+
+I named this one "hw4_roach_problem_3". I got the function working, docstring and all, and then began working on importing it.
+
+Some notes about solving the import:
+
+Take the function and paste it into a notepad then save it as a ".py" file. This is easier for my computer to read, for some odd reason.
+
+Creating a new file while a running Jupyter notebook is active causes some issues on occasion. Closing and reopening the Jupyter file usually fixes any importing issues. This was what stumped me for seemingly forever, only to find out it was a rather simple solution. Pain.
+
+After painfully solving the problem, I used my phone's calculator to verify the answers were correct. Thankfully, there were no issues.
+
+***** OUT: Thur Sep 16 00:26:20 EST 2021
+
+***** IN: Thur Sep 16 08:16:46 EST 2021
+
+Here I will finish my assignment. Beneath this, I will paste my previous log so I can build off/finish this assignment.
+
+
+Problem 1: 
+
+I went under my homework folder and created "hw4_roach". 
+
+"C:\Users\roach\Documents\UCF\phz3150\homework\hw4_roach"
+
+I then copy pasted this beneath my Github and pushed it onto my backup.
+
+"C:\Users\roach\Documents\GitHub\phz3150_main_dir-Franley2002\homework\hw4_roach"
+
+I then began setting up for Problem 2. I opened up Jupyter notebook and navigated to my homework file, then created a new python notebook, titled "hw4_roach".
+
+"C:\Users\roach\Documents\UCF\phz3150\homework\hw4_roach"
+
+Problem 2:
+
+I read the instructions and setup my first line, which had my name, date, and assignment number, and then opened up the Python demo to 
+reference it as I worked through the assignment.
+
+I wrote my first function, docstring and all. I then used ctrl+c and ctrl+v to follow the same format and same content, then switched around variables and descriptions, to save time. Because I have homework due at midnight and I have 90 minutes left before its due. I love working against the clock evidently.
+
+Problem 3: 
+
+Gotta import it huh? Interesting. Well, I went to the same area where I saved the initial homework file and then created a new Jupyter notebook.
+
+"C:\Users\roach\Documents\UCF\phz3150\homework\hw4_roach"
+
+I named this one "hw4_roach_problem_3". I got the function working, docstring and all, and then began working on importing it.
+
+Some notes about solving the import:
+
+Take the function and paste it into a notepad then save it as a ".py" file. This is easier for my computer to read, for some odd reason.
+
+Creating a new file while a running Jupyter notebook is active causes some issues on occasion. Closing and reopening the Jupyter file usually fixes any importing issues. This was what stumped me for seemingly forever, only to find out it was a rather simple solution. Pain.
+
+After painfully solving the problem, I used my phone's calculator to verify the answers were correct. Thankfully, there were no issues.
+
+Two ways to check the code works properly are to try values which can cause issues, such as a denominator that equals 0, and a large set of numbers to ensure it can handle any parameter.
+
+Problem 5:
+
+My Jupyter files are already within my hw4_roach folder, but I had to clean up the python checkpoints and python cache folders. Then, I used ctrl+c and ctrl+v to make a copy of my hw4_roach folder and place it beneath Github.
+
+"C:\Users\roach\Documents\GitHub\phz3150_main_dir-Franley2002\homework\hw4_roach"
+
+I took a screenshot of my Github Desktop app telling me to commit changes using my Snipping tool, then saved it beneath the aforementioned Github folder and hw4_roach folder.
+
+I then referenced my previous log to use the following command to zip "hw4_roach":
+
+"zip -r hw4_roach.zip hw4_roach"
+
+And then submitted the assignment.
+
+***** OUT: Thur Sep 16 10:32:45 EST 2021

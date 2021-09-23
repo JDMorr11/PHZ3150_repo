@@ -1,0 +1,15 @@
+Random selection of text taken from the thinkpython2 book:
+The innermost statements, fd and lt are indented twice to show that
+they are inside the for loop, which is inside the function definition.
+The next line, square(bob), is flush with
+the left margin, which indicates the end of both the for loop and the function
+definition. Inside the function, t refers to the same turtle bob, so t.lt(90)
+has the same effect as bob.lt(90). In that case, why not call the parameter bob?
+The idea is that t can be any turtle, not just bob, so you could create a
+second turtle and pass it as an argument to square:
+alice = turtle.Turtle()
+square(alice)
+Wrapping a piece of code up in a function is called encapsulation. One of the benefits of
+encapsulation is that it attaches a name to the code, which serves as a kind of documentation.
+Another advantage is that if you re-use the code, it is more concise to call a function
+twice than to copy and paste the body!
