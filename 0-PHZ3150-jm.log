@@ -266,3 +266,19 @@ took a screenshot of the commit on github and moved it to hw5_JacobMorrissey
 will add my log file, zip the folder and submit to webcourses
 
 *****OUT: Wed Sep 22 22:03:27 EDT 2021
+
+*****IN: Thu Sep 23 17:59:38 EDT 2021
+Problem 1
+made folders in my handin, homework, and notebook folders each called Midterm
+made a new notebook called midterm_jacobmorrissey
+Problem 2
+started by making a list of cities
+made variables start_city and target_city empty strings
+used a while loop to ask for input
+if the input city is not in the list, it asks again, otherwise it replaces the empty string
+Problem 3
+used np.loadtxt to get data from distances_midterm.dat and skipped the first row
+used city_list.index to get the index of the start and target cities
+made a function travel_distance_and_time and saved as a .py file
+
+*****OUT: Thu Sep 23 19:34:48 EDT 2021
