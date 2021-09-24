@@ -1,0 +1,56 @@
+Jacob Morrissey
+Log for PHZ 3150, Fall 2021
+*****IN: Wed Aug 25 19:24:49 EDT 2021
+Made a directory for the class here:
+/Users/me/PHZ3150
+Opened notepad, started this log, saved as:
+/Users/me/PHZ3150/PHZ3150_log
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+           Name: Jacob Morrissey
+          Email: jacobmorrissey@knights.ucf.edu
+	  Phone: (386)341-2628
+          Major: Chemistry
+           Year: Senior
+             ID: 4071240
+
+How did you hear about this course?
+searching the course catalog
+Do you have a laptop you can bring to class, install software on, etc.?
+yes
+What operating system and version does it run?
+windows 10
+How much free disk space does it have?
+297 GB
+What operating systems are you comfortable working in?
+windows 10
+What computer classes have you taken, including high school,
+extracurricular, etc.?
+none
+Have you ever programmed a computer?
+yes
+   In what language(s)?
+python
+   Summarize your experience:
+I learned some basics of using python from online tutorials, and wrote a 
+few programs to solve simple problems from my statistics homework.  
+Have you taken statistics or probability?
+yes
+Why are you taking this course?
+to become more comfortable coding and solving problems
+Are there particular topics you hope to learn?
+visualising data and solving non analytic problems
+If you have worked with scientific data or modeling before, briefly
+describe your experience:
+I have made simple graphs and tables using excel 
+Have you ever been involved with a science club or similar?  If so,
+describe:
+I was in a competitive sceince club in middle school in which I built a musical 
+instrument andtook tests on various subjects.
+Made a directory for textbook here:
+/Users/me/PHZ3150/textbook
+Downloaded Think Python to the textbook directory from here:
+https://greenteapress.com/thinkpython2/thinkpython2.pdf
+Made a directory for handins here:
+/Users/me/PHZ3150/handin
+*****OUT: Wed Aug 25 20:20:48 EDT 2021
