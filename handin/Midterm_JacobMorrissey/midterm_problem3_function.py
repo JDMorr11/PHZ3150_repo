@@ -33,6 +33,6 @@ def travel_distance_and_time():
     time = distance / 75
     days = time / 24
     hours = 24 * (days-int(days))
-    seconds = 60 * (hours - int(hours))
-    print('Your trip from', start_city, 'to', target_city, 'will take', int(days), 'days', int(hours), 'hours', round(seconds), 'seconds.')
+    minutes = 60 * (hours - int(hours))
+    print('Your trip from', start_city, 'to', target_city, 'will take', int(days), 'days', int(hours), 'hours', round(minutes), 'minutes.')
 
