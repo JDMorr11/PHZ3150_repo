@@ -328,3 +328,26 @@ took a screenshot of the commit on github and added to handin folder
 sent the folder to a compressed folder
 
 *****OUT: Wed Sep 29 16:34:05 EDT 2021
+
+*****IN: Wed Oct 13 14:55:12 EDT 2021
+
+hw7
+problem 1
+made handin folder hw7_JacobMorrissey
+started new notebook hw7_JacobMorrissey
+problem 2
+didn't want to type out the full dictionary so i made a list of the words and populated the dict with a for loop
+problem 3
+couldn't think of a different way to use a while loop so i basically turned it into a for loop by incrementing a variable j
+problem 4
+used x % 2 to determine if a value is even or odd
+problem 5
+made the function to calculate all of the grades before realizing it should only return one student's
+function still calculates all of the grades but takes an input to chose which student's grade it outputs
+Problem 6
+added everything to the hw7_JacobMorrissey handin folder
+pushed to github
+took screenshot
+sent handin folder to compressed folder and submitted to webcourses
+
+*****OUT: Wed Oct 13 17:36:56 EDT 2021
