@@ -1,0 +1,774 @@
+Suhyun Hwang 
+
+Log for PHZ 3150, Fall 2021
+
+*****IN: Fri Aug 27 13:29:08 EST 2021
+
+Made a directory for the class here:
+
+C:\Users\ronna\OneDrive\Desktop\Suhyun Hwang\phz3150
+
+Opened notepad, started this log, saved as:
+
+C:\Users\ronna\OneDrive\Desktop\Suhyun Hwang\phz3150\handin\hw1_Suhyun_Hwang\0-phz3150-suhyunhwang.txt
+
+
+
+*Description*
+
+1.Opened File Explorer on taskbar, went to desktop, created folder “Suhyun Hwang,” then folder “phz3150” in the folder, then “handin” and “hw1_Suhyun_Hwang” according to the instructions.
+
+2.Opened Google Chrome and searched for libgen. Typed in “Think Python” in the search bar. Clicked the link for the book and downloaded from the website.
+
+3.Went back into File explorer and created a new folder called “books” using the New Folder Button. Afterwards, moved the PDF of the book from the Downloads folder into the newly created books folder.
+
+4.Opened a new tab on Google Chrome, searched for “7-zip” and selected the first link shown. From there, clicked the download link for the 64-bit version. 
+
+5.Going back to the “hw1_Suhyun_Hwang” folder, right-clicking the folder and selecting “adding to archive” with the help of 7-zip.
+
+6.Opened Webcourses, going to the course and selecting the assignment tab. Clicked “HW1” Assignment and submitted the .zip folder for submission.
+
+
+
+
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+           Name: Suhyun Hwang
+          Email: gracehwang@knights.ucf.edu
+	  Phone: 407-590-8046
+          Major: Photonic Engineering
+           Year: Sophomore
+             ID: 5315748
+
+How did you hear about this course?
+
+- The course is one of the prerequisites for my major. 
+
+Do you have a laptop you can bring to class, install software on, etc.?
+
+- Yes
+
+What operating system and version does it run?
+
+- Windows 10
+
+How much free disk space does it have?
+
+- 159GB
+
+What operating systems are you comfortable working in?
+
+- Windows
+
+What computer classes have you taken, including high school,
+extracurricular, etc.?
+
+- Never
+
+Have you ever programmed a computer?
+
+- No
+
+   In what language(s)?
+
+   Summarize your experience:
+
+Have you taken statistics or probability?
+
+- STA 2023
+
+Why are you taking this course?
+
+- It's prerequisite for my major.
+
+Are there particular topics you hope to learn?
+
+- Coding
+
+If you have worked with scientific data or modeling before, briefly
+describe your experience:
+
+- Never
+
+Have you ever been involved with a science club or similar?  If so,
+describe:
+
+- Never
+	
+http://libgen.li/ads.php?md5=761a6355c2b7a7b95460569f841ca7c3
+
+*****OUT: Fri Aug 27 13:58:10 EST 2021
+
+
+
+
+
+*****IN: Tue Sep 01 13:02:55 EST 2021
+
+
+problem 1.
+
+1. Went to:https://conda.io/miniconda.html
+2. Downloaded the Win-dows Python3.764-bit installer at the top of the page.
+3. After downloading the file, opened the setup 
+4. Next > I agree > Just Me > Next > Destination Folder as C:\Users\bless\miniconda3
+5. Opened the Anaconda prom (Anaconda3) and typed "conda install jupyter"
+6. Searched jupiter in Windows Start and opened Jupiter Notebook
+7. Opened Snipping tool from Windows Start and captured Jupiter page
+8. Opened File Exploder and renamed the capture to homework_and_coding
+9. Opened the the file as PDF viewer and saved it so that the file name would become homework_and_coding.pdf
+10. Opened Anaconda Prompt and typed "python --version"  - 
+
+
+(a) Python Version : 3.7.1
+
+
+(b)
+https://desktop.github.com/ and downloaded 64beat
+2. sign in for Github and authorized access to my account
+3. cloned to phz3150_main_dir
+
+
+Problem 2.
+
+Correct syntax/Incorrect Tokens:1 st1ll bel1eve.
+
+Incorrect syntax/Correct Tokens: Anyone not here be.
+
+Main feature of natural languages prevents their use (so far) as programming languages
+: Evolution of language 
+
+- Reason : Since language changes over time, meaning of words can even slightly change.  
+
+
+problem 3.
+
++ > New Respiratory > named hello -world > put description > Initialize with README
+typed a branch name as "readme-edits" and created the branch
+
+Clicked README.md file 
+
+
+*****OUT: Thu Sep 02 11:18:40 EST 2021
+
+
+*****IN: TUE Sep 07 11:25:04
+
+1. Created a new folder named hw3_shwang 
+location : C:\Users\bless\Desktop\phz3150\handin\hw3_shwang
+
+2. 
+	a. Entered to https://copy.sh/v86/ and opened Arch Linux
+		Typed 'mkdir hw3_shwang'
+
+
+	All steps I did : 
+		mkdir phz 3150/
+		mkdir phz 3150/handin/hw3_shwang 
+
+  	b. typed 'date' and 'Sun Jan 3 06:29:23 UTC 2021' appeared.
+
+	c. typed 'cd ..' and went out of the folder 'hw3_shwnag' and typed 'pwd' to double check where I am
+
+	d. current directory changed from '~/hw3_shwang' to '~' and removed the folder by commanding 'rm -r hw3_shwang'
+
+	e. typed 'ls' and it shows 'bin boot dev etc home lib lost+found mnt opt proc root run sbin srv sys tmp usr var'
+	   typed 'ls -l' to see it in the long output format
+	   typed 'ls -ltr to see it in a reverse time order
+	   typed 'ls -lh' to see it in a human readable format
+	   
+
+3. 
+	a. Created a repository : + > New Respiratory > named hello -world > put description > Initialize with README > Created a repository
+typed a branch name as "readme-edits" and created the branch
+	
+	b.
+
+
+	c.Dragged folder 'handin' into Github Desktop
+
+
+	d. Downloaded test.dat from webcourses and added to the folder 'hw3_shwang'and committed the changes
+
+	e. copied hw3 and copied pasted to the handin folder
+
+
+
+*****OUT: Thu Sep 09 11:59:40 EST 2021
+
+*****IN: TUE Sep 14 11:29:03 EST 2021
+
+1. 
+
+Highlighted the cell and clicked cell > cell type > Markdown
+Clicked th file name "Untitled" and changed the name to "hw4_shwang"
+Opened Github Desktop and checked changes and clicked 'commit to main' with some description
+Clicked ''Push to origin button
+Cell Type > Heading > typed my name
+	Repeated the same step to write assignment number and the date
+
+2. 
+
+Changed cell type to 'Markdown' and typed problem 2 instruction with '####'so that the letter would be written in appropriate font size
+Used print() function to type 'problem 2' with its description 
+
+typed 'def' with 'force_calculator(mass, acc)' to calculate the force first
+provided description below that force is mass times acc by typing 'force = (mass * acc)'
+finally typed 'return' with 'force'
+
+Now, typed 'def''force_to_acceleration(mass, force):'
+provided description below that force is mass times acc by typing acc = (force / mass) 
+finally typed 'return' with 'acc'
+
+*Used print() function to see the results for force*
+force = force_calculator(10, 5)
+print (force)
+force = force_calculator(15, 10)
+print (force)
+force = force_calculator(20, 5)
+print (force)
+force = force_calculator(40, 3)
+print (force)
+
+*Used print() function to see the results for acceleration*
+acc = force_to_acceleration(150, 100)
+print (acc)
+acc = force_to_acceleration(150, 22)
+print (acc)
+acc = force_to_acceleration(150, 450)
+print (acc)
+
+3. 
+Inserted a new cell in a 'markdown' cell type
+Typed 'Problem 3' and description about the problem with '####'
+Made a chart with the given values for t1,t2,u1,and u2
+Used the print() function to print 'Problem 3' and wrote a description of what the problem requires to do
+Typed 'acceleration(u1, u2, t1, t2):' with 'def' and put some description about the function
+Typed the equation 'a = (u2 - u1) / (t2 - t1)' 
+Typed 'return' with 'a'
+
+Put each value for u1,u2,t1,and t2, using 'a=acceleration()' and used print() function to see the value of 'a'
+Saved it in a different file as 'hw4_shwang2'
+
+Used CASIO calculator and MATHWAY (website for math calculator) to check if the values are correct
+
+
+4. 
+Last time, I had difficulty creating a new repository. I knew how to create a new repository, but didn't know how to put handin folder, 
+so I just dragged 'handin' folder into the Github Desktop. 
+
+Now, I know how to make repository for my folder that is already existing without dragging it.
+
+*What I did to start 'Handin' repository in Github*
+Opened Github Desktop 
+Clicked File > Add local repository > set local path as C:\Users\bless\Desktop\phz3150\handin
+
+Now, I see if I put a new file into my local folder, it is uploaded automatically to Github repository so that I can see it in the system as well
+Whenever I make new files, I have to click 'commit changes' and update it to the system by clicking 'Push to Origin' button
+
+
+5. 
+In 'handin' repository, checked new python files I made for HW 4 and committed changes with a title 'coding for HW 4' 
+Clicked 'Push Origin' button 
+Opened 'Snipping Tool' and made a screen shot of it and saved it as hw4_prob5_screenshot1
+Right clicked the folder 'hw4_shwang' and added it to acrchive and converted it to zip file 
+
+
+
+*****OUT: Thu Sep 16 11:55:40 EST 2021
+
+
+*****IN: Thu Sep 23 5:29:08 EST 2021
+
+1. 
+Created a new folder named 'hw5_shwang'
+Opened Jupyter Notebook and created a new file named 'hw5_shwang.ipynb'
+Opened Github, committeed changes, and clicked 'push to origin'
+In the main homework file, put my name, date, homework number in heading cells
+typed problem numbers with '####' in markdown comments and printed them 
+imported numpy by 'import numpy as np'
+
+2.
+Made lists as below :
+	velocity_list = list( range(0, 100, 10) )
+	time_list = list( range(0, 1000, 100) )
+
+Used print function to see their values 
+	print ( velocity_list )
+	print ( time_list )
+
+Checked the 3rd to 5th and 8 values of the velocity list by : 
+	velocity_list[ 3 : 5 ]
+	velocity_list[ 8 ]
+
+Changed the file's name that contains the acceleration function I made last time into 'acc'
+Put the file into the same forlder as main homework file 
+Typed 'from acc import acceleration' to call the function 
+
+
+3. 
+Typed 'x = np.arange( 1, 100.1, 0.1 )'so that the last x value would be 100.0
+Checked its type by using type function 
+Checked the shape by 'print ( x.shape )'
+Typed 'print ( x )' to see all the vales that x have
+
+
+4. 
+Created 'student_h_list' with the given values as : 
+	student_h_list [ 5.01, 4.10, 6.02, 5.07, 6.11 ]
+
+5. 
+With 'def,' created a function that calculates body displacement 
+put descriptions for u_init, t ,a
+Put them inside a py file and saved it separately 
+called the function by 'from displacement import displacement'
+Calculated after inserting each values as shown below : 
+	s = displacement(0, 2, 10)
+	print(s)
+	s = displacement(0, 4, 20)
+	print(s)
+	s = displacement(0, 14, 30)
+	print(s)
+Used Casio calculator and Mathway to check if the values are correct
+
+
+6. 
+Committed all the changes in Github Desktop and clicked 'Push to origin' button
+Right clicked 'hw5_shwang' folder and clicked 'add to archive' and converted it to zip file
+
+*****OUT: Thu Sep 23 11:18:40 EST 2021
+
+
+
+*****IN: Thu Sep 24 10:30:30 EST 2021
+
+1. 
+Went to 'handin' folder and created a new folder named 'hw6_shwang'
+Opened Jupyter Notebook and created a new python 3 notebook and renamed it as 'hw6_shwang'
+After saving it, made its location as /Desktop/phz3150/handin/hw6_shwang
+Opened Github Desktop and clicked 'commit changes' and 'push to origin' 
+In the main home file, typed my name, homework number, and today's date with heading comments
+Typed problem numbers with '####' in markdown comments
+Printed problem numbers with print function 
+Imported numpy by 'import numpy as np'c
+
+
+
+2.
+imported pyplot by typing 'import matplotlib.pyplot as plt'
+Arranged x numpy by typing 'x = np.arange(1, 100.1, 0.5)' and printed it with print function 
+Created a y numpy aray by typing 'y = np.log10( x )'
+Created a z numpy aray by typing 'z = np.sqrt( x )'
+Plotted y and z by typing 'plt.plot( y,z )'
+Set different colors, line styles ,and linewidth for each function by : 
+	plt.figure( figsize = ( 15, 15 ))
+	plt.plot( x, y, color = 'pink' , linestyle = '--', linewidth = 4, label = 'sin' )
+	plt.plot( x, z, color = 'purple' , linestyle = '-.', linewidth = 3, label = 'cos')
+
+	plt.xlabel( 't'                 , fontsize = 30 )
+	plt.ylabel( 'Sin[ 2 $\pi$ t ] ' , fontsize = 30 )
+	plt.title( ' My first sin-cos plot' , fontsize = 40 )
+	plt.show((x, y) and (y, z))
+Made a name for the plot by typing :
+	plt.titles(' My first sin-cos plot' , fontsize = 40 )
+Saved the figure by typing :
+	plt.savefig( 'Function for HW6', format = 'pdf' )
+
+
+
+3. 
+Created an array q by typing all the values with the function :
+	q = np.array([ 45, 24, 5, 30, 3, 67, 33, 60, 65, 13, 82, 75, 21, 77, 67, 8, 86, 62, 23, 70, 11, 70, 21, 15, 84, 51, 6, 79, 78, 66, 2, 93, 49, 74, 23, 85, 25, 38, 1, 89 ])
+Printed it by typing 'print( q )'
+Printed the locations where q values are larger than 50 by typing 'np.where( q > 50 )'
+Printed q values that are larger than 50 and smaller than 70 by :
+	print(q[( q > 50 ) & ( q < 70 )])
+
+Made a 'test_list' of 'z' by running :
+	test_list = z
+Printed it with print ()function and checked the values
+Printed 12th up to and including 14th of the values of the list by running :
+	print( z[ 11 : 14 ] )
+Changed 28th of the list to 42.0 and printed the list to check the change
+	test_list [28] = 42.0
+	print( test_list )
+Checked the value successfully changed 
+Created a markdown comment and wrote down that the value changed is shown properly
+
+
+Created a test_tuple out of z by :
+	test_tuple = z
+Printed the 20th element of test_tuple by :
+	print( test_tuple [20] )
+Changed the 21st value of test_tuple to 44.0 by : 
+	test_tuple[21] = 44.0
+Printed the list and checked the value successfully changed
+Created a markdown comment and wrote down that the value changed is shown properly
+
+
+Created a word_list by : 
+	word_list = [ 'twinkle', 'twinkle', 'little', 'star' ]
+
+Tried to find which words contain 'a' and 'e' by inserting element number into []
+	'e' in word_list[]
+	'a' in word_list[]
+
+Tried to find the index of letters 'a' and 'e' by inserting element number into []
+	print(  word_list[].index( 'e' ) )
+	print(  word_list[].index( 'e' ) )
+
+
+Tried to find if the list has 'star' or 'bright' : 
+	
+	is_this_name_in_list = 'star'
+
+	word_list[0] == is_this_name_in_list
+	word_list[1] == is_this_name_in_list
+	word_list[2] == is_this_name_in_list
+	word_list[3] == is_this_name_in_list
+
+	is_this_name_in_list = 'bright'
+
+	word_list[0] == is_this_name_in_list
+	word_list[1] == is_this_name_in_list
+	word_list[2] == is_this_name_in_list
+	word_list[3] == is_this_name_in_list
+
+
+4. 
+Made a function that calculates the roots of quadratic equation :
+	def quad( a ,b ,c ):
+    	from math import sqrt
+    	f1 = b**2 - 4*a*c
+    	f2 = sqrt(f1)
+    	positive = ( -b + f2 ) / ( 2 * a )
+    	negative = ( -b - f2 ) / ( 2 * a )
+   	 return positive, negative
+
+Inserted given coefficients and printed them :
+	roots = quad( 1 ,-1 ,-12 )
+	print( roots )
+
+
+
+5. 
+Duplicated hw6 file and pasted into 'handin' folder
+Opened Github and committed changes and clicked 'push to origin' button
+Added the folder 'hw6_shwang' to archive, checked zip, and clicked OK
+
+
+
+
+*****OUT: Thu Sep 30 11:14:05 EST 2021
+
+
+*****IN: Sun Oct 10 01:47:41 EST 2021
+
+1. 
+Created a new folder 'hw7_shwang' in handin folder 
+In the folder, created a new python file and named it as 'hw7_shwang'
+Opened Github and clicked 'commit change' then clicked 'push origin' button
+In heading comments, put my name, assignment number, and the date
+In markdown comment, put the problem number and printed it
+Import numpy as : 
+	import numpy as np
+
+
+
+2. 
+Created a function called word_to_number
+Put dictionary inside the function : 
+
+def word_to_number(word):
+    
+    number_dic = { 'zero': 0, 'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5, 'six': 6, 'seven': 7
+                  , 'eight': 8, 'nine': 9, 'ten': 10, 'eleven': 11, 'twelve': 12, 'thirteen': 13, 'fourteen': 14
+                  , 'fifteen': 15, 'sixteen': 16, 'seventeen': 17, 'eighteen': 18, 'nineteen': 19, 'twenty': 20}
+    
+    return number_dic[word]
+
+call the function for: ‘three’, ‘seven’, ‘twelve’, ‘sixteen’and ‘nineteen’ and printed an informative statements with the results :
+word = 'three'
+print(word, 'is', word_to_number(word))
+word = 'seven'
+print(word, 'is', word_to_number(word))
+word = 'twelve'
+print(word, 'is', word_to_number(word))
+word = 'sixteen'
+print(word, 'is', word_to_number(word))
+word = 'nineteen'
+print(word, 'is', word_to_number(word))
+
+
+
+
+3.
+
+Splitted the sentence by the word it was made of :
+
+string = 'Deleting an item from a list or array while iterating over it is a Python problem that is well known to any experienced software developer'
+
+for word in string.split():
+    print(word)
+
+
+Used for function and printed the longest word at last : 
+
+string = 'Deleting an item from a list or array while iterating over it is a Python problem that is well known to any experienced software developer'
+longestWord = 'a'
+for word in string.split():
+    if (len(longestWord) < len(word)):
+      longestWord = word
+    print(word)
+print()
+print('Longest Word:',longestWord)
+
+
+Used while function and printed the longest word at last : 
+
+string = 'Deleting an item from a list or array while iterating over it is a Python problem that is well known to any experienced software developer'
+longestWord = 'a'
+while ' ' in string:
+    i = string.index(' ')
+    if (len(longestWord) < len(string[:i])):
+      longestWord = string[:i]
+    print(string[:i])
+    string = string[i+1:]
+print()
+print('Longest Word:',longestWord)
+
+
+
+
+4.
+Created an x array that goes from 100 to 1000 in step of 25 : 
+	x = np.arange(100,1000,25)
+
+Create an arrayythat is equalin size toxbut full of zeros and Create a FOR loop that scans throughyand assignsy[i]a value equaltox[i]/2IF iis an even number,orx[i]**2IF iis anoddnumber:
+
+y = [0] * len(x)
+
+
+print(y)
+print()
+for i in range(0, len(y)):
+    if (i % 2 == 1):
+        y[i] = x[i]**2
+    else:
+        y[i] = x[i]/2
+print(x)
+print()
+print(y)
+
+
+
+
+5.
+ 
+read the file 'student_data.csv' with :
+
+f = open('student_data.csv','r')
+all_grades = f.read()
+f.close()
+
+
+Made a function  for pass_or_no_pass(grades) :
+def pass_or_no_pass(grades):
+    for i in range(0, 9):
+        homework = (all_grades[i][6:8]+all_grades[i][11:13])
+        print('Student', all_grades[i][0:5])
+        print(homework)
+                
+            
+    return
+
+
+
+
+6. 
+
+Copied the hw7_shwang file into the hanin folder 
+Opened Github and clicked commit to change and push origin
+Made a screenshot for both the file committed and added to the folder hw7_shwang
+Added the folder to archive and clicked zip to zip the folder
+
+
+*****OUT: Thu Oct 30 10:14:27 EST 2021
+
+
+
+*****IN: Sun Oct 16 02:30:42 EST 2021
+
+1. 
+Created a folder named 'hw8_shwang':
+
+	In Jupyter Notebook, ../Desktop/phz3150/handin - clicked 'New' > 'folder'
+
+Opened Github Desktop and checked the folder created and clicked 'commit to main' then 'push to origin'
+Put this log into the folder
+Created a file called 'hw8_shwang' insied the folder
+Typed each homework problem numbers in markdown comments then printed them 
+
+2. 
+Made the imports:
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+Made x and y arrays:
+
+x = np.arange(-100, 100.0, 0.1)
+y = np.arange(-100, 100.0, 0.1)
+
+Made the function:
+
+def ellipse(x, y, a, b):
+    """Function that plots an ellipse
+    
+    Input: x(x-coordinate), y(y-coordinate), a(width), b(height)
+    Output: plot   """
+    
+    x,y = np.meshgrid(x,y)
+    
+    z = (( x**2 / a**2 ) + ( y**2 / b**2 ) - 1 ) 
+    
+    fig, ax = plt.subplots()
+    
+    ax.contour(x,y,z,[0])
+   # ax.set_aspect(1)
+    plt.xlim(-15,15)
+    plt.ylim(-25,25)
+    
+    return plt.show()
+
+
+Called the function for specific a,b values:
+
+a = 12
+b = 2
+print(ellipse(x, y, a, b))
+
+a = 4
+b = 20
+print(ellipse(x, y, a, b))
+
+
+
+3. 
+Inside the folder hw8_shwang, created a new text file and changed its name to 'hw8_support_funct.py' 
+created a function that takes an array of numbers as input and rearrange the numbers in sequence :
+
+def order_array(input_array):
+    
+    for i in range(len(input_array)):
+        m_index = i
+        for j in range(i, len(input_array)):
+            if input_array[j] < input_array[m_index]:
+                m_index = j
+        input_array[i], input_array[m_index] = input_array[m_index], input_array[i]
+        
+    return print(input_array)
+
+Called the function in the main homework file by : 
+	from hw8_support_funct import order_array
+
+Run the function for np.array([4,5,2,10,42,22,8,12]) as:
+	
+	input_array = np.array([4,5,2,10,42,22,8,12])
+	order_array(input_array
+
+	-> The result : [ 2  4  5  8 10 12 22 42]
+
+Used np.sort() function to check if it was correct :
+	
+	np.sort(np.array([4,5,2,10,42,22,8,12]))
+
+	-> The result turned out the same
+
+
+4.
+Made a function inside the file hw8_support_func.py:
+
+def kepler_3rd(period):
+    """Function that calculates the distance of a planet from the sun
+    Input: Period of the planet [years]
+    Output: Distance of the planet [AU]  """
+    
+    a_orb = 1
+    earth_period = 1
+    P2 = period
+    P1 = earth_period
+    𝛼1 = a_orb
+    
+    𝛼2 = 𝛼1 * (P2**2 / P1**2)**(1./3.)
+
+    return "%.1f" %𝛼2
+
+Called the function :
+
+from hw8_support_funct import kepler_3rd
+
+
+Entered the year values :
+
+period = 87.96 / 365.25
+kepler_3rd(period) 
+period = 224.7 / 365.25
+kepler_3rd(period)
+period = 686.97 / 365.25
+kepler_3rd(period)
+period = 4332.82 / 365.25
+kepler_3rd(period)
+period = 10775.6 / 365.25
+kepler_3rd(period)
+period = 30687.15 / 365.25
+kepler_3rd(period)
+period = 60190.03 / 365.25
+kepler_3rd(period)
+
+
+Made a comparing plot for two values and set the different colors for two:
+
+my_values = [0.4, 0.7, 1.524, 5.2, 9.5, 19.2, 30.1]
+
+actual_values = [0.4, 0.7, 1.524, 5.2, 9.6, 19.2, 30.1]
+
+
+planet_names = ['Mercury','Venus','Mars','Jupiter','Saturn','Uranus','Neptune']
+
+
+indices = np.arange(len(planet_names))
+
+width = 0.20
+
+plt.bar(indices, my_values, width=width, color= 'red')
+plt.bar(indices + width, actual_values, width=width, color = 'lightgreen')
+
+plt.xticks(ticks=indices, labels=planet_names)
+
+plt.xlabel("planets")
+plt.ylabel("distance from the sun")
+plt.title("Comparing the Distance of the Planets")
+
+plt.show()
+
+
+Used the names of the planets as tick labels on the x axis : 
+
+plt.xticks(ticks=indices, labels=planet_names)
+
+
+
+5. 
+To conver the folder into zip file:
+
+	'add to archive' > zip > ok
+
+To commit the file : 
+
+	commit to change > push to origin
+
+
+
+*****OUT: Thu Oct 21 05:20:27 EST 2021

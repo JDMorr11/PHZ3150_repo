@@ -1,0 +1,1010 @@
+Alejandro Felix
+Log for PHZ 3150, Fall 2021
+*****IN: Thu Aug 26 20:01:10 EST 2021
+Made a directory for the class here:
+/home/Alejandro/phz3150
+Opened gedit,started this log, saved as:
+/home/Alejandro/phz3150/0-phz3150-alejandrofelix.log
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name:Alejandro Felix
+Email:felixalejandro3@Knights.ucf.edu
+Phone:407-460-6129
+Major: Photonic Science and Engineering
+Year:3rd junior
+ID:4833588
+How did you hear about this course? Mike McKee
+Do you have a laptop you can bring to class, install software on, etc.? Yes
+What operating system and version does it run? Windows 10
+How much free disk space does it have? 180 GB
+What operating systems are you comfortable working in? Windows
+What computer classes have you taken, including high school,extracurricular, etc.? In valecia college EGN 1007C
+Have you ever programmed a computer? no
+In what language(s)? none
+Summarize your experience:none
+Have you taken statistics or probability? no
+Why are you taking this course? To learn how to code for future use
+Are there particular topics you hope to learn? coding
+If you have worked with scientific data or modeling before, briefly describe your experience: None
+Have you ever been involved with a science club or similar?  If so,describe: no
+To make my folder phz3150 I right clicked the desktop and selected new then created a new folder and named it phz3150
+Then in my phz3150 folder I right clicked and selected new and created a new folder called hw1_Alejandro  
+https://greenteapress.com/thinkpython2/thinkpython2.pdf
+I got this link from the syllabus
+In my phz3150 folder I right clicked and selected new folder and named it books
+I clicked on the link and downloded the pdf and went to the phz3150 folder and saved it to the folder named books 
+***** OUT: Thu Aug 26 21:47:46
+ 
+
+
+
+***** IN: Wed Sep 1 18:54:53
+
+Homework 2
+
+Problem 1
+
+I downloaded jupyter notebook on Thursday August 26.
+
+The version of python I have is 3.7.11
+ 
+Problem 2
+
+a) An ()riginal Engl!sh sentance th@t has correc+ s/ntax but incorrect token$.
+
+b) Orignal an English sentence when incorrect syntax at correct tokens.
+
+What main “feature” of natural languages prevents their use (so far) as programming languages, and why?
+
+The main features of natural language that prevents their use as programming languages are ambiguity, redundency, and literalness.
+Natural languages have tons of ambiguity but people understand what they mean by using contextual cules however formal languages are the 
+complete opposite anything that is typed has one exact meaning no matter the situation. Natural languages have a lot of redundency to 
+reduce misunderstandings but programming languages are more straight to the point. Natural languages have a lot of idioms and metaphors 
+but programming languages are more literall and mean exactly what they say.
+      
+***** OUT: Wed Sep 1 23:37:20
+
+***** IN: Wed Sep 8 20:16:32
+
+Homework 3
+
+Problem 2
+
+a) First I typed cd Downloads, then cd PHZ3150, then cd Handin, then I made the file by typing mkdir hw3_Kingfelix17, then I did
+ cd hw3_Kingfelix17 and finally to list it typed ls
+
+b) Just type date and it gave me the date Wed sep 8 20:21:29 EDT 2021
+
+c) Type cd ..
+
+d) To list the current directory type ls. To remove the directory I did rm -ir hw3_Kingfelix17 and then typed y to confirm it.
+
+e) To list the current directory showing the long output format I typed ls -l and to list the current directory with human friendly
+ file size units just type ls -lh
+
+Problem 3
+
+a) On Github I went to file then new repository and named it PHZ3150-Work and saved it to my PHZ3150 folder then in a command terminal 
+   I got to PHZ3150-Work and typed git log. To set my name I typed git config --global user.name Alejandro  and for the email I typed 
+   git config --global user.email felixalejandro3@Knights.ucf.edu.
+
+b) To track files i Typed git add and to add a comment I did git commit -m  
+
+c) To add my handin folder i typed git add handin and added a comment
+
+d)
+
+e) 
+
+***** OUT Thru SEP 9 1:08:56 
+
+***** IN Wed SEP 15 18:32:52
+
+Problem 1
+
+I right clicked in my handin folder and made zip folder and renamed it hw4_Alejandro.
+
+Problem 2
+
+Typed print ('Problem 2')
+For m and a I got the values in the chart and made a list for each. Then I mulitplied each of them.
+
+Then I made a function called force_to_acceleration and wrote my docstring then put my input and output and I changed the formula so that
+I get acceleration as my answer. I also made my acceleration as my return. I created my_forces where I listed the forces and made mass
+equal 150.
+To get my answer I typed 
+print ('If', my_forces [ 0 ], '(N) of force is applied the acceleration is', force_to_acceleration (( mass ), ( my_forces [ 0 ] )),'(m/s^2). ')
+then repeated two more times just changing the zeros to 1 then to 2.
+
+Problem 3
+
+Typed Print ('Problem 3')
+I created a new file by clicking new then text file on the top right corner of the jupyter notebook page. Then I changed the language
+to python and renamed the file to acceleration.py
+I created the function called acceleration, wrote my docsting, put the input and output, wrote my equation and set my 
+return as acceleration.
+To import my file I went back to my main homework file and typed import acceleration.
+To get my values I created a list for each variable. Then to get my answer I typed 
+print ('At speeds of', u1 [ 0 ],'m/s to', u2 [ 0 ],'m/s and from a time span of', t1 [ 0 ],'s to', t2 [ 0 ], 's the acceleration of the body will be',
+acceleration ( ( u2 [ 0 ] ), ( u1 [ 0 ] ), ( t2 [ 0 ] ), ( t1 [ 0 ] ) ), 'm/s^2.' )
+Then repeated but just changing the zeros until I got to 4 to get 5 solutions.
+
+To check my result I used a calculator and I also used a website called clever code analysis.
+
+Problem 4
+
+I opened Github Desktop clicked on current repository on the top left then add and then create new repository. I named it hw3_repository
+clicked initialize with a README then I added a description then i pushed it.
+In files on my computer i selected my handin folder and copied it and when to github then hw3_repository and pasted it there. 
+Then commited to main.
+
+Problem 5
+
+I copied the hw4_Alejandro to the github folder and then to hw3_repositor then handin folder then i pated it there. In Github desktop 
+I took a screenshot then I commited to main and pushed it . 
+I saved everything to the zip folder and submited it to WebCourses.
+
+***** OUT Thur SEP 16 1:00:43
+
+***** IN Thur SEP 22 18:07:18
+
+---Homework 5---
+
+---Problem 1---
+
+
+Created my homework 5 file called hw5_Alejandro.zip and commited it to github
+ 
+Created my homework file called hw5_Alejandro.ipynb. Wrote my name, date, and 
+
+assignment number at the top of the page using markdown also imported numpy as np.
+
+
+---Problem 2---
+
+
+Created a list velocity from 0 to 100 with a step of 10 --- velocity = list( range(0, 101, 10)) 
+
+Created a time list from 0 to 1000 with a step of 100 ---- time = list ( range (0, 1001, 100))
+
+Printed 3rd to 5th and 8th element of velocity ---print (velocity [ 3 : 5] )
+                                                  print (velocity [8])
+
+Imported my acceleration.py file and calculated the acceleration of the given values
+
+def acceleration (u1,u2,t1,t2):
+    '''Function that calculates the acceleration of a body
+    Input:  different speeds of the body (u1, u2) at times (t1, t2)
+    Output: Acceleration of a body'''
+    
+    acceleration = (u2 - u1) / (t2 - t1)
+    
+    return acceleration
+
+print ('At speeds of', velocity [ 2 ],'m/s to', velocity [ 3 ],'m/s and from a time span 
+
+of', time [ 2 ],'s to', time [ 3 ], 's the acceleration of the body will be', acceleration
+
+ ( ( velocity [ 2 ] ), ( velocity [ 3 ] ), ( time [ 2 ] ), ( time [ 3 ] ) ), 'm/s^2.' )
+
+Then repeated with the other values.
+
+From my velocity list the fifth element was 40 so I did not change it.
+
+
+---Problem 3---
+
+
+Created a numpy array from 1 and up to and including 100 with a step of 0.1 
+
+ x = np.arange (1, 100.1, 0.1)
+
+Used the type command and the size command --- print(x.shape, type(x))
+
+Printed the maximun, minimum, and mean --- print ( np.min (x), np.max (x), np.mean (x))
+
+Printed x - 52 --- print ( x - 52)
+
+printed x times 5% --- print (x * 0.05 )
+
+
+---Problem 4---
+
+
+Created list student_h --- student_h = [ 5.01, 4.10, 6.02, 5.07, 6.11 ]
+
+Created function ft_to_m_cm 
+
+def ft_to_m_cm (ft, In):
+    '''Function that converts the hight of students from feets(ft) and inches(in) into meters(m) and centimeters(cm)
+    Input: Feet(ft) and inches (In)
+    Output: meters (m) and centimeter(cm)'''
+    
+    x = (ft * 0.3048) + (In * 2.54)
+    m = int(x)
+    cm = x - int(x)
+    
+    return [m, cm]
+
+print ('The height of a student is', student_h [0],'feet, converting the height we get',
+ft_to_m_cm (( int(student_h[0])), (student_h[0] - int(student_h[0]))),'[Meters(m), Centimeters(cm)].' )
+
+Then changed the numbers to get all the values.
+
+
+---Problem 5---
+
+
+ Created function displacement in my other file displacement.py and imported it.
+
+def displacement(u_init, t, a):
+    '''Function that calculates the total displacement of a body during time interval(t), inital speed(u_init), and
+    constant acceleration(a).
+    Input: time interval(t), inital speed(u_init), constant acceleration(a)
+    Output: total displacement of a body'''
+    
+    displacement = u_init * t + 0.5 * a * t**2
+    
+    return displacement
+
+Then created u_init = 0 , a = [ 10, 20, 30], and t = [ 2, 4, 14 ] 
+
+print('If the inital speed is', u_init,', acceleration is', a[0],', and time is', t[0], 'then the
+ total displacement is', displacement( (u_init ), t[0], a[0] ))
+
+Then repeated changing my numbers to get the values needed.
+
+Checked by using a calculator to calculate the numbers.
+
+
+---Problem 6---
+
+
+Copyed my hw5_Alejandro.zip and passed it to my github handin folder. Took a screenshoot.
+
+Then on github had to write a summary then commited to main then push to origin.
+
+Then submit my hw5_Alejandro.zip on webcourses.
+
+*****OUT Thur SEP 23 01:32:54
+
+*****In Wed SEP 29 17:32:09
+
+---Homework 6---
+
+---Problem 1---
+
+
+left clicked, clicked on new and created a zip file and renamed it hw6_Alejandro
+
+Went to jupyter notebook and created a python file and named it hw6_Alejandro
+
+
+---Problem 2---
+
+
+Imported numpy and matplotlib.pyplot. Created numpy array x
+
+x = np.arange (1, 100.5, 0.5)
+
+created array y,  y = np.log10 (x)
+
+created array z, z= np.sqrt(x)
+
+Then ploted y(x) and z(x) in the same plot
+
+plt.figure( figsize = (15, 15 ) )
+plt.plot  ( x, y, color = 'red' , linestyle = '-', linewidth = 5, marker = 'o' , markersize = 1 ) 
+plt.plot  ( x, z, color = 'blue' , linestyle = '--', linewidth = 2,  marker = 'd' , markersize = 1 )
+plt.xlabel( 'x-axis'                 , fontsize = 30 )
+plt.ylabel( 'y- axis' , fontsize = 30 )
+plt.title( ' My plot graph' , fontsize = 40 )
+plt.yticks( fontsize = 30 )
+plt.xticks( fontsize = 30 )
+
+plt.savefig( 'my_plot_graph.pdf', format = 'pdf', 
+           dpi =1200, bbox_inches = 'tight', pad_inches = 0.3)
+
+
+---Problem 3---
+
+
+created array q and printed it
+
+q = np.array ([45, 24, 5, 30, 3, 67, 33, 60, 65, 13, 82, 75, 21, 77, 67, 8, 86,
+ 62, 23, 70, 11, 70, 21, 15, 84, 51, 6, 79, 78, 66, 2, 93, 49, 74, 23, 85, 25, 38, 1, 89 ])
+
+Then Printed the locations where q is larger than 50
+
+print (np.where ( 50<q ))
+
+Then printed in one command the elements of q that were larger than 50 and smaller than 70.
+
+print (np.where (( 50 < q) & ( q < 70)))
+
+created test_list from  z 
+
+Printed the 12th up to and including the 14th elements of the list 
+
+print ( test_list [ 12: 15 ] )
+
+Changed element 28 of the list to be 42.0 by test_list [ 27 ]= 42
+
+This does work because the list is big enought and it is easier since lists are mutable
+
+Created a tuple called test_tuple from z ---- test_tuple = tuple( z )
+
+Print the 20th element of test_tuple --- test_tuple [ 19 ]
+
+Changed element 21 of test_tuple to be 44.0 ---- test_tuple = test_tuple [ 0 : 20] + ( 44, ) + test_tuple [ 21 : ]
+
+This does work because the list is long enough but it is harder since tuples are inmutable.
+
+created list word_list ----- word_list = ('twinkle', 'twinkle', 'little', 'star')
+
+Then scaned every word for a leter "a" or "e"
+
+print('In twinkle "a" is on', word_list[0].find( 'a' ), 'and "e" is on ', word_list[0].find( 'e' ))
+
+Then cahnged the numbers for every word 
+
+checked if the word star or bright was in my list
+
+is_this_word_in_list = 'star'
+
+word_list[ 0 ] == is_this_word_in_list
+word_list[ 1 ] == is_this_word_in_list
+word_list[ 2 ] == is_this_word_in_list
+word_list[ 3 ] == is_this_word_in_list
+
+
+---Problem 4---
+
+
+Created a function for the quadratic formula
+
+def quadratic (a, b, c):
+    '''Function that solves for the roots of 𝑎𝑥^2+𝑏𝑥+𝑐=0 using the quadratic formula.
+    Input: a, b, c
+    Output: two roots'''
+    
+    d = b**2 - 4 * a * c
+    p = (-b + np.sqrt( d )) / 2*a
+    n = (-b - np.sqrt( d )) / 2*a
+    
+    return p,n
+
+Calculated the roots of 𝑥^2−𝑥−12=0
+
+print ( quadratic (equation[0], equation[1], equation[2] ))
+
+
+---Problem 5---
+
+
+Copied hw6_Alejandro to the github folder in my computer nd pasted it in the 
+
+handin folder in there. Committed and pushed to github.
+
+Then submited to webcourses.
+ 
+*****OUT Thur SEP 30 1:12:54
+
+*****IN Sat OCT 2 12:46:23
+
+
+=== Midterm ===
+
+
+=== Problem 1 ===
+
+
+Left clicked, clicked on new and created a zip file and renamed it Midterm_Alejandro.
+
+Went to jupyter notebook and created a python file and named it Midterm_Alejandro.
+
+Used markdown to write my name, the assignment and the date
+
+Imported Numpy by typing import numpy as np
+
+
+=== Problem 2 ===
+
+
+A) typed --- 
+
+print ('Input your starting city ( start_city ) and your final destination ( target_city ). Your options are:')
+print ('Atlanta, Baltimore, Boston, Charlotte, Dallas, Denver, Miami, Minneapolis, Orlando, Sacramento, Tampa and Washington.' )
+
+B) typed ---
+
+start_city = input ('Your starting city: ')
+
+target_city = input ('Your target city: ')
+
+C) Maked list cities_list ---
+
+cities_list = [ 'Atlanta', 'Baltimore', 'Boston', 'Charlotte', 'Dallas', 'Denver', 'Miami', 'Minneapolis', 'Orlando', 'Sacramento', 
+              'Tampa', 'Washington' ]
+
+D) Checked if the input start and target cities were among the cities the traveler
+
+ was allowed to travel. If not, printed an error statement that asks them to
+
+ input another, appropriate city. ---
+
+ if start_city in cities_list:
+    print (' Calculating route ')
+
+if start_city not in cities_list:
+    print(' Input an appropriate city from our list ')
+
+if target_city in cities_list:
+    print (' Calculating route ')
+
+if target_city not in cities_list:
+    print(' Input an appropriate city from our list ')
+
+E) Runed the code with a start city: Paris and end city: Orlando when it complained
+
+took a screenchot. Then changed the start city: Atlanta and took a screenshot.
+
+
+=== Problem 3 ===
+
+
+A) Downloaded distances_midterm.dat and used np.loadtxt to read the data 
+
+into variable travel_data ---
+
+travel_data = np.loadtxt('distances_midterm.dat')
+
+B) Got the index of the cities by typing ---
+
+first_city = cities_list.index( start_city )
+
+second_city = cities_list.index( target_city )
+
+C) Printed an informative statement to let the driver know what the distance between
+
+ his start and end city are ---
+
+print ( 'Between', start_city, 'and', target_city, 'you will travel', ( travel_data [ first_city , second_city ] ), 'miles.' )
+
+D) Printed an informative statement that lets the traveler know how long their
+ 
+trip will be in days, hours and minutes. ---
+
+ total_time = ( travel_data [ first_city , second_city ] ) / 75
+
+days = int( total_time / 24 )
+
+hours = int( total_time - days * 24 )
+
+minutes = np.ceil( (total_time - int( total_time )) * 60 )
+
+print ( 'Your trip from', start_city, 'to', target_city, 'will take', days,'days', hours, 'hours', minutes, 'minutes.' ) 
+
+E) Runed the code from the start_city: Tampa to target_city: Orlando and got a
+   
+time of 1 hour and 8 minutes
+
+F) Turn the program into a function ---
+
+def travel_time_days (start_city, target_city):
+    '''Function that calculates the time in days, hours, and minutes of a
+    trip from the starting city to the target city going at 75 MPH
+    Input: start_city and  target_city
+    Output: Days, hours, minutes of the trip '''
+    
+    total_time = ( travel_data [ first_city , second_city ] ) / 75
+    days = int( total_time / 24 )
+    hours = int( total_time - days * 24 )
+    minutes = np.ceil( (total_time - int( total_time )) * 60 )
+    
+    return  [ days, hours, minutes ]
+
+print ( 'Between', start_city, 'and', target_city, 'you will travel', ( travel_data [ first_city , second_city ] ), 'miles.' )
+
+time = ( travel_time_days ( start_city, target_city ) )
+
+print ( 'Your trip from', start_city, 'to', target_city, 'will take', time [0],'day(s),', time [1],'hours, and', time [2], 'minutes.')
+
+
+=== Problem 4 ===
+
+
+A) Modifyed Problem 3 function to now have a pitstop_city. Runed the code for
+
+ start_city: Boston, pitstop_city: Denver and target_city: Sacramento. ---
+
+def roadtrip_time_days (start_city, pitstop_city, target_city):
+    '''Function that calculates the time in days, hours, and minutes of a
+    trip from the starting city to a pitstop city to the target city going at 75 MPH
+    Input: start_city and  target_city
+    Output: Days, hours, minutes of the trip '''
+    
+    total_time = ( travel_data [ first_city, between_city ] + travel_data [ between_city, second_city ]  ) / 75
+    days = int( total_time / 24 )
+    hours = int( total_time - days * 24 )
+    minutes = np.ceil( (total_time - int( total_time )) * 60 )
+    
+    return  [ days, hours, minutes ]
+
+print ( 'Between', start_city, pitstop_city , 'and', target_city, 'you will travel', 
+( travel_data [ first_city, between_city ] + travel_data [ between_city, second_city ]  ), 'miles.' )
+
+time = ( roadtrip_time_days ( start_city, pitstop_city, target_city ) )
+
+print ( 'Your trip from', start_city, 'to', pitstop_city,'to', target_city, 'will take', time [0],'day(s),', time [1],'hours, and',
+ time [2], 'minutes.')
+
+This is what was printed 
+
+Between Boston Denver and Sacramento you will travel 3131.0 miles.
+
+Your trip from Boston to Denver to Sacramento will take 1 day(s), 17 hours, and 45.0 minutes.
+
+B) To get the index of pitstop_city I typed --- 
+
+between_city = cities_list.index( pitstop_city )
+
+C) Printed an informative statement that lets the traveler know how many stops
+
+ they will need to do on the two legs of their trip. ---
+
+print( 'On your first leg of your trip from', start_city, 'to', pitstop_city, 'you will need to stop',
+ np.ceil( ( travel_data [ first_city, between_city ]) / (24.9 * 16) ), 'times for fuel\n'
+
+ 'and on your second leg of your trip from', pitstop_city, 'to', target_city, 'you will need to stop',
+  np.ceil( ( travel_data [ between_city, second_city ]) / (24.9 *16) ), 'times for fuel.' )
+
+I rounded the amount of trips.
+
+D) Printed an informative statement that lets the traveler know the total (gas-only)
+
+ value of their trip. ---
+
+print ( 'The trip will cost $',( ( travel_data [ first_city, between_city ] + travel_data [ between_city, second_city ] ) / 24.9 ) * 2.4,
+    'in fuel.' )
+
+
+=== Problem 5 ===
+
+
+A) Asked for a start city and a destination city ---
+
+start_city = input ('Your starting city: ')
+first_city = cities_list.index( start_city )
+
+target_city = input ('Your target city: ')
+second_city = cities_list.index( target_city )
+
+B1) Printed an informative statement that lets the traveler know that they will
+
+ need to stop in city C, and what the total distance traveled will be. ---
+
+min_dist = 10000000000
+
+for i in range( len( cities_list ) ):
+    if i != first_city:
+        if i != second_city:
+            if ( min_dist > ( travel_data[ first_city, i ] + travel_data[ i, second_city ] )):
+                break_city = i
+                pitstop_city = cities_list[ i ]
+                min_dist = ( travel_data[ first_city, i ] + travel_data[ i, second_city ] )
+                
+print ( 'You will need to make a pitstop at', pitstop_city, '. In total your travel distance will be',
+ ( travel_data [ first_city, break_city ] + travel_data [ break_city, second_city ]  ), 'miles.' )
+
+B2) A trip from Baltimore to Orlando mean that your pitstop will be at Washington. ---
+
+You will need to make a pitstop at Washington . In total your travel distance will be 885.0 miles.
+
+B3) I let the traveler know how many stops for gas they will need to do in every
+
+ leg of the trip (from Baltimore to Orlando) and how much the total gas cost of
+
+ the trip will be. ---
+
+print( 'On your first leg of your trip from', start_city, 'to', pitstop_city, 'you will need to stop',
+       np.ceil( ( travel_data [ first_city, break_city ]) / (24.9 * 16) ), 'times for fuel\n'
+      'and on your second leg of your trip from', pitstop_city, 'to', target_city, 'you will need to stop',
+       np.ceil( ( travel_data [ break_city, second_city ]) / (24.9 *16) ), 'times for fuel.' )
+
+print ( 'The trip will cost $',( ( travel_data [ first_city, break_city ] + travel_data [ break_city, second_city ] ) / 24.9 ) * 2.4,
+ 'in fuel.' )
+
+On your first leg of your trip from Baltimore to Washington you will need to 
+
+stop 1.0 times for fuel and on your second leg of your trip from Washington
+
+to Orlando you will need to stop 3.0 times for fuel. The trip will cost 
+
+$ 85.30120481927712 in fuel.
+
+
+=== Problem 6 ===
+
+
+Copied midterm_Alejandro to the github folder in my computer and pasted it in the 
+
+handin folder in there. Committed and pushed to github.
+
+Then submited to webcourses.
+
+*****OUT Thur OCT 7 12:29:42
+
+*****IN Mon OCT 11 18:06:46
+
+=== Homework 7 ===
+
+
+=== Problem 1 ===
+
+
+Left clicked, clicked on new and created a zip file and renamed it hw7_Alejandro.
+
+Went to jupyter notebook and created a python file and named it hw7_Alejandro.
+
+Used markdown to write my name, the assignment and the date
+
+Imported Numpy by typing import numpy as np
+
+
+=== Problem 2 ===
+
+
+Created function word_to_number
+
+---
+
+def word_to_number (word):
+    '''Function that inputs an English word that corresponds to a number from 0 to 20 and returns the corresponding number.
+    Input: English word
+    Output: Corresponding number'''
+    
+    number_dict = dict()
+    
+    number_dict[ 'one' ]= 1
+    number_dict[ 'two' ]= 2
+    number_dict[ 'three' ]= 3
+    number_dict[ 'four' ]= 4
+    number_dict[ 'five' ]= 5
+    number_dict[ 'six' ]= 6
+    number_dict[ 'seven' ]= 7
+    number_dict[ 'eight' ]= 8
+    number_dict[ 'nine' ]= 9
+    number_dict[ 'ten' ]= 10
+    number_dict[ 'eleven' ]= 11
+    number_dict[ 'twelve' ]= 12
+    number_dict[ 'thirteen' ]= 13
+    number_dict[ 'fourteen' ]= 14
+    number_dict[ 'fifteen' ]= 15
+    number_dict[ 'sixteen' ]= 16
+    number_dict[ 'seventeen' ]= 17
+    number_dict[ 'eightteen' ]= 18
+    number_dict[ 'nineteen' ]= 19
+    number_dict[ 'twenty' ]= 20
+    
+    
+    return number_dict [word]
+
+print ( "'three' is", word_to_number('three'), ",'seven' is",  word_to_number ('seven')
+
+, ",'twelve' is", word_to_number ('twelve'), ",'sixteen' is", word_to_number('sixteen'),
+
+ ", and 'nineteen' is", word_to_number('nineteen')  )
+
+---
+
+=== Problem 3 ===
+
+
+Maked a code that splits the sentence
+
+---
+
+sentence = 'Deleting an item from a list or array while iterating over it is a 
+
+Python problem that is well known to any experienced software developer'
+
+sentence_split =sentence.split ()
+
+print (sentence_split)
+
+---
+
+Then used a FOR loop to print the longest word of the sentence 
+
+---
+
+length = 0 
+
+for word in sentence_split :
+    if length < len(word):
+        length = len(word)
+        longest_word = word
+
+print(longest_word)
+
+---
+
+Did the same program, but now looped over the sentence with a WHILE loop 
+
+---
+
+length = 0
+i = 0
+
+while (i< len(sentence_split)) :
+    word = sentence_split[i]
+    if length< len(word):
+        length = len(word)
+        longest_word = word
+    i= i + 1
+        
+print(longest_word)
+
+---
+
+
+=== Problem 4 ===
+
+
+Created an array x that goes from 100 to 1,000 in steps of 25
+
+---
+
+x = np.arange(100,1000,25)
+
+---
+
+Created an array y that is equal in size to x but full of zeros
+
+---
+
+y= np.zeros(len(x))
+
+---
+
+Created a FOR loop that scans through y and assigns y[i] a value equal to x[i]/2 
+
+IF i is an even number, or x[i]**2 IF i is an odd number.
+
+---
+
+y_even = []
+y_odd = []
+
+for i in x:
+    if i%2==0:
+        y_even.append( i/ 2 )
+    else:
+        y_odd.append( i**2 )
+
+print (y_even)
+print (y_odd)
+
+---
+
+=== Problem 5 ===
+
+
+Read the data into a numpy array named all_grades
+
+---
+
+from numpy import genfromtxt
+
+all_grades = genfromtxt('student_data.csv', delimiter=',')
+
+---
+
+Started function pass_or_no_pass but didnt finish
+
+---
+
+def pass_or_no_pass(grades):
+    '''calculates the final grade of a student using 60% of the final exam grade, 15% the quizzes grade and
+    25% the homework grade.
+    Input: final exam grades, quiz grades, and homework grades
+    Output: final grade in a scale of 0-100% and a ‘pass’ (if grade is > 60%) or ‘no pass’ (if grade is < 60%)'''
+    
+    homework = all_grades[: , 1:6]
+    
+    quiz = all_grades[: , 6:9]
+    
+    finals = all_grades[: ,9:]
+    
+    mean_homework = np.mean( np.array( homework ) )
+    
+    mean_quiz     = np.mean( np.array( quizzes ) )
+    
+    mean_finals = np.mean( np.array( finals ) )
+    
+    
+    final_grade = mean_homework * 0.25 + mean_quiz * 0.15 + mean_finals * 0.60
+    
+    return Final_grade
+
+---
+
+
+=== Problem 6 ===
+
+
+Copied hw7_Alejandro to the github folder in my computer and pasted it in the 
+
+handin folder in there. Committed and pushed to github.
+
+Then submited to webcourses.
+
+*****OUT Thur OCT 14 11:16:54
+
+*****IN Wed OCT 20 18:29:43 
+
+
+=== Homework 8 ===
+
+
+===Problem 1 ===
+
+
+Left clicked, clicked on new and created a zip file and renamed it hw8_Alejandro.
+
+Went to jupyter notebook and created a python file and named it hw8_Alejandro.
+
+Used markdown to write my name, the assignment and the date
+
+Imported Numpy by typing import numpy as np
+
+
+=== Problem 2 ===
+
+
+Make an array x and an array y that go from -100 to +100 with a step of 0.1
+
+---
+
+x = np.arange(-100, 100, 0.1)
+y = np.arange(-100, 100, 0.1)
+
+---
+
+Make a function ellipse(x,y,a,b)
+
+---
+
+def ellipse (x, y, a, b):
+    '''calculates an ellipes
+    Input: x, y, a, b
+    Output: a plot with an ellipse'''
+    
+    import numpy as np
+    from matplotlib import pyplot as plt
+    from math import pi
+
+    x    #x-position of the center
+    y    #y-position of the center
+    a     #radius on the x-axis
+    b    #radius on the y-axis
+
+    t = np.linspace(0, 2*pi, 100)
+    plt.plot( x+a*np.cos(t) , y+b*np.sin(t) )
+    plt.grid(color='lightgray',linestyle='--')
+    plt.show()
+
+    return ellipse
+
+---
+
+
+=== Problem 3 ===
+
+
+Create function order_array(input_array) in hw8_support_funct.py
+
+---
+
+def order_array (input_array):
+    '''takes an array of numbers and orders them from smaller to larger
+    Input: array of numbers
+    Output: orders number from smallest to largest'''
+    
+    random_list = np.array([4,5,2,10,42,22,8,12])
+    ordered_list = []
+
+
+    for i in range( len(random_list) ):
+        
+        if i == 0:
+            ordered_list.append(random_list[i])
+        else:
+            
+            if random_list[i] > np.max(ordered_list):
+                ordered_list.append(random_list[i])
+            
+            if random_list[i] < np.min(ordered_list):
+                ordered_list.reverse()
+                ordered_list.append(random_list[i])
+                ordered_list.reverse()
+            
+            if ( random_list[i] >= np.min(ordered_list) ) & ( random_list[i] <=  np.max(ordered_list) ) :
+                ordered_list_temp = []
+                
+                for j in range( len(ordered_list) -1 ):
+                    
+                    if ( random_list[ i ] < ordered_list[ j +1 ] ) & ( random_list[ i ] > ordered_list[ j ] ) :
+                        if j > 0:
+                            ordered_list_temp = ordered_list[ : j+1 ]    
+                        else:
+                            ordered_list_temp = [ ordered_list[ 0 ] ]
+                        ordered_list_temp = ordered_list_temp +  [ random_list[ i ] ]  
+                        ordered_list_temp. extend( list( ordered_list[ j+1 : ] ) )  
+                        ordered_list = ordered_list_temp
+
+
+  return ordered_list
+
+---
+
+imported it it and tried to print but says np is not defined
+
+---
+
+random_list = np.array([4,5,2,10,42,22,8,12])
+
+print(order_array(random_list))
+
+---
+
+then sorted it to check my answer
+
+---
+
+numbers_sorted = sorted(numbers)
+print(numbers_sorted)
+
+---
+
+
+=== Problem 4 ===
+
+
+made a function called kepler_3rd(period) in hw8_support_funct.py
+
+---
+
+def kepler_3rd(period):
+    '''Function that gets as input the orbital period of a planet in years and returns the orbital distance of a 
+    planet to the Sun.
+    Input: orbital period of a planet in years
+    Output: orbital distance of a planet to the sun'''
+    
+    pyear= period/365
+    
+    od= ( (pyear)**2 )**(1/3)
+    
+    
+    return od
+
+---
+
+tried to imported but it said it coudnt so i just pasted it on the main homework file.
+
+calculated my values and ploted then but looks like either the real or my values
+
+isnt ploting right.
+
+
+=== Problem 5 ===
+
+
+Copied hw8_Alejandro to the github folder in my computer and pasted it in the 
+
+handin folder in there. Committed and pushed to github.
+
+Then submited to webcourses.
+
+
+***OUT Thur OCT 21 2:08:10
