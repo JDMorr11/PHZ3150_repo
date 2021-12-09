@@ -1,0 +1,519 @@
+Jacob Morrissey
+Log for PHZ 3150, Fall 2021
+*****IN: Wed Aug 25 19:24:49 EDT 2021
+Made a directory for the class here:
+/Users/me/PHZ3150
+Opened notepad, started this log, saved as:
+/Users/me/PHZ3150/PHZ3150_log
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+           Name: Jacob Morrissey
+          Email: jacobmorrissey@knights.ucf.edu
+	  Phone: (386)341-2628
+          Major: Chemistry
+           Year: Senior
+             ID: 4071240
+How did you hear about this course?
+searching the course catalog
+Do you have a laptop you can bring to class, install software on, etc.?
+yes
+What operating system and version does it run?
+windows 10
+How much free disk space does it have?
+297 GB
+What operating systems are you comfortable working in?
+windows 10
+What computer classes have you taken, including high school,
+extracurricular, etc.?
+none
+Have you ever programmed a computer?
+yes
+   In what language(s)?
+python
+   Summarize your experience:
+I learned some basics of using python from online tutorials, and wrote a 
+few programs to solve simple problems from my statistics homework.  
+Have you taken statistics or probability?
+yes
+Why are you taking this course?
+to become more comfortable coding and solving problems
+Are there particular topics you hope to learn?
+visualising data and solving non analytic problems
+If you have worked with scientific data or modeling before, briefly
+describe your experience:
+I have made simple graphs and tables using excel 
+Have you ever been involved with a science club or similar?  If so,
+describe:
+I was in a competitive sceince club in middle school in which I built a musical 
+instrument andtook tests on various subjects.
+Made a directory for textbook here:
+/Users/me/PHZ3150/textbook
+Downloaded Think Python to the textbook directory from here:
+https://greenteapress.com/thinkpython2/thinkpython2.pdf
+Made a directory for handins here:
+/Users/me/PHZ3150/handin
+*****OUT: Wed Aug 25 20:20:48 EDT 2021
+*****IN: Tue Aug 31 15:48:02 EDT 2021
+Moved class folder to C:\Users\me\Documents\PHZ3150
+Enabled linux subsystem from the control panel 
+Installed Ubuntu from the windows store
+Updated Ubuntu
+Made a directory phz3150 from the bash terminal
+Linked my windows home folder to the phz3150 directory in linux
+
+Navigated to my linux home folder from the windows file explorer
+Created shortcut to the home folder and placed it in the folder C:\Users\me\Documents\PHZ3150
+Downloaded bash aliases from webcourses and moved them to linux through the shell
+Installed miniconda from : https://conda.io/miniconda.html
+Updated miniconda
+installed numpy. scipy, ipython, matplotlib, jupter, and spyder
+installed emacs for windows from  http://ftp.gnu.org/gnu/emacs/windows/emacs-25/
+installed emacs in BASH
+installed git in BASH
+installed git for windows from https://git-scm.com/download/win
+opened spyder
+took a screenshot usind Win + PrtSc
+*****OUT: Tue Aug 31 17:02:49 EDT 2021
+*****IN: Wed Sep  1 13:11:02 EDT 2021
+opened jupyter notebook 
+using python 3
+took a screenshot with Win + PrtSc
+installed github desktop
+signed in and joined classroom
+took a screenshot with Win + PrtSc
+
+W#ere 1s the b@thr0om?
+Down it is the hall.
+Natural languages have ambiguity which cannot be easily interpreted by a machine.
+*****OUT: Wed Sep  1 14:42:59 EDT 2021
+*****IN: Wed Sep  1 15:13:52 EDT 2021
+made new repository hello-world in github
+created new branch readme-edits
+edited readme text and committed
+submitted pull request and merged into main branch
+added hw1-survey to class github under HW1
+committed and pushed change
+took a screenshot and added to HW2 folder
+*****OUT: Wed Sep  1 15:36:45 EDT 2021
+
+*****IN:Wed Sep  8 15:20:53 EDT 2021
+
+made a new log file in emacs
+copied and pasted previous log from notepad into emacs
+made a folder hw3_jacobmorrissey in windows file explorer
+made a directory using ubuntu
+     mkdir hw3_jacobmorrissey
+     cd hw3_jacobmorrissey
+listed the directory
+       ls
+the directory is empty
+checked the date and time
+	date
+Wed Sep  8 15:26:39 EDT 2021
+changed from ~/phz3150/hw3_jacobmorrissey to ~/phz3150
+	cd ..
+listed the directory
+       ls
+removed hw3_jacobmorrissey
+	rm -di
+listed directory showing long output, reverse time order, and human readable
+       ls -lth
+
+*****OUT: Wed Sep  8 16:06:26 EDT 2021
+
+*****IN: Wed Sep  8 19:08:08 EDT 2021
+
+launched ubuntu
+changed directory to ~/phz3150/Windows/PHZ3150
+created a new repository with git init
+configured username and email
+	   config --global user.name jacob
+	   config --global user.email jacobmorrissey@knights.ucf.edu
+added this log under version control
+      	 git add PHZ3150-log
+commited change with the message 'adding my log'
+	 git commit
+renamed repository by changing it's folder name to PHZrepo
+added all my class files
+      git add demos/ handin/ handouts/ homework/ notebooks/
+      git commit -m 'adding my class files'
+made a personal access token from github
+connected to github
+	  git push --set-upstream origin master
+added test.dat to hw3_jacobmorrisser
+      git add handin/hw3_jacobmorrissey/test.dat
+      git status
+      On branch master
+      Your branch is up to date with 'origin/master'.
+
+      Changes to be committed:
+      (use "git restore --staged <file>..." to unstage)
+        new file:   handin/hw3_JacobMorrissey/test.dat
+saved changes to the log
+commited the change
+	  git commit -am 'saved log changes'
+changed name of the log file from PHZ3150-log to PHZ3150_log
+commited the change
+	 git commit -am 'changed log name from PHZ3150-log to PHZ3150_log'
+	 git log
+	 commit 83400b867ccc4350a345d34b5f66bfc5e6a3a87b (HEAD -> master)
+	 Author: jacob <jacobmorrissey@knights.ucf.edu>
+	 Date:   Wed Sep 8 20:49:12 2021 -0400
+
+    	 changed log name from PHZ3150-log to PHZ3150_log
+
+	 commit acc280ea7961b983358d1f6a34e475da923c91bb
+	 Author: jacob <jacobmorrissey@knights.ucf.edu>
+	 Date:   Wed Sep 8 20:48:17 2021 -0400
+
+    	 saved log changes
+
+	 commit 7b90b32de824e11dcbd3bd107ec0f756a9dcc3d2
+	 Author: jacob <jacobmorrissey@knights.ucf.edu>
+	 Date:   Wed Sep 8 20:47:22 2021 -0400
+
+    	 deleted test.dat
+
+	 commit 371f293b7e14348518591b60cb82ae4cd9b3b8f5
+	 Author: jacob <jacobmorrissey@knights.ucf.edu>
+	 Date:   Wed Sep 8 20:41:56 2021 -0400
+
+    	 added test.dat
+
+	 commit 2ab073fc5c50f29ef5465bdbac75332321d42c1b (origin/master)
+	 Author: jacob <jacobmorrissey@knights.ucf.edu>
+	 Date:   Wed Sep 8 20:19:29 2021 -0400
+
+    	 adding class files
+
+*****OUT:Wed Sep  8 20:52:58 EDT 2021
+
+*****IN:Sun Sep 12 15:09:14 EDT 2021
+
+downloaded HW4 file into homework folder
+created hw4_jacobmorrissey folder in handin folder
+opened new jupyter notebook hw4_jacobmorrissey.ipynb
+began problem 2
+tried to use a for loop to calculate F from lists of m and a values
+      for i in m:
+      	  F = m[i] * a[i]
+	  print(F)
+got an error because i is equal to the element in the list and not its index
+searched for a guide on for loops and found a different method
+      for i in range(len(m)):
+      	  F = m[i] * a[i]
+	  print(F)
+this method worked
+used the same structure to define a function force_to_acceleration
+     Caclulates acceleration a [m / s^2] of a 150 kg body from the applied force F [kg m / s^2].
+began problem 3
+wrote all four variables from the hw file as lists
+created a file for the acceleration function: accleration_hw4.py
+imported the function in my hw4 notebook
+used the same for loop structure again to calculate a
+
+*****OUT: Sun Sep 12 16:26:19 EDT 2021
+
+*****IN: Sun Sep 12 17:29:24 EDT 2021
+
+changed the file names of the screenshots taken for hw2
+each file name now starts with hw2_JaMor_prob#_ followed by the application name
+previously these file names didn't include the hhw number, my name, or problem number
+copied my hw4 notebook and acceleration function into my handin folder
+changes to the handin folder weren't being tracked
+couldn't get any changes to track so i made a new repository
+moved my entire class folder into PHZ3150_repo
+made a new hw4_jacobmorrissey folder and added my jupyter files
+committed the changes and pushed
+will save my log and add to hw4_jacobmorrissey then zip and submit to webcourses
+*****OUT: Sun Sep 12 18:21:19 EDT 2021
+
+*****IN:Sun Sep 12 18:26:24 EDT 2021
+
+forgot to add  screenshot of my commit
+took a screenshot of github with win+ prtsc
+named it hw4_JaMor_prob5_handincommit
+
+*****OUT: Sun Sep 12 18:29:34 EDT 2021
+
+*****IN: Wed Sep 22 19:20:00 EDT 2021
+
+HW5
+Problem 1
+made folder hw5_jacobmorrissey in handin folder
+opened jupyter notebook
+created new notebook called hw5_jacobmorrissey
+Problem 2
+made lists using list(range(0,100,10)) and 1000,100
+assumed the 3rd element refers to velocity[3], velocity[0] being the 0th
+Problem 3
+had to look up the shape function
+for array x it's x.shape
+Problem 4
+made a new notebook called my_functions
+made a separate folder in my notebooks folder called functions
+made the function ft_to_m_cm, downloaded it as ft_to_m_hw5.py
+made a separate foler for homework in my notebooks folder
+Problem 5
+made displacement_hw5 file with my displacement function
+kept getting an error from using ^ instead of **
+same error after changing operand
+restarting jupyter fixed the error
+Problem 6
+copied notebook and function files into handin/hw5_JacobMorrissey
+committed changes on github desktop with the message 'HW6' and pushed
+took a screenshot of the commit on github and moved it to hw5_JacobMorrissey
+will add my log file, zip the folder and submit to webcourses
+
+*****OUT: Wed Sep 22 22:03:27 EDT 2021
+
+*****IN: Thu Sep 23 17:59:38 EDT 2021
+Problem 1
+made folders in my handin, homework, and notebook folders each called Midterm
+made a new notebook called midterm_jacobmorrissey
+Problem 2
+started by making a list of cities
+made variables start_city and target_city empty strings
+used a while loop to ask for input
+if the input city is not in the list, it asks again, otherwise it replaces the empty string
+Problem 3
+used np.loadtxt to get data from distances_midterm.dat and skipped the first row
+used city_list.index to get the index of the start and target cities
+made a function travel_distance_and_time and saved as a .py file
+
+*****OUT: Thu Sep 23 19:34:48 EDT 2021
+
+*****IN: Thu Sep 23 23:41:34 EDT 2021
+
+midterm problem 4
+made a third while loop for the pitstop city
+used np.ceil to round up the number of gas station stops
+used "{0:.2f}"/format(cost) to print the cost to 2 decimal places
+saved the function as midterm_problem4_function
+went back and redid problems 3 and 4 by moving the input section of code into the functions travel_distance_and_time and trip
+now in the notebook i simply call either function with no argument
+problem 5
+made a new function file midterm_pronlem5_function
+used for i in range(len(city_list)) to scan through the list
+to minimize the total distance i made a list distances and populated it with each value of start to i plus i to target
+if i is the same as either the start or taget city it sets the distance equal to 50000 to ensure it won't be the minimum value
+went back and took the screenshot needed for problem 2 named midterm_JaMor_prob2_test
+added the screenshot, main notebook, functions notebook, function .py files, and log to handin folder
+sent to a compressed folder
+commited changes to github and pushed
+will wait to submit to webcourses in case i need to make changes
+
+*****OUT: Fri Sep 24 02:03:20 EDT 2021
+
+*****IN: Wed Sep 29 14:46:39 EDT 2021
+HW6 problem 1
+made hw6_JacobMorrissey folder in handin folder
+started a new notebook hw6_JacobMorrissey.ipynb
+problem 2
+imported numpy and matplotlib.pyplot
+saved plot as hw6_jamor_prob2_plot
+problem 3
+had trouble using np.where
+to get just the indices from the output of np.where i called np.where(q>50)[0]
+this gave me the indices as an array instead of an array inside a tuple
+problem 4
+made a new function quadratic in quadratic_hw6.py
+ran into a problem when using b^2 in my function
+the ^ operator returned a float which caused significant rounding error
+using b*b instead fixed the problem
+problem 5
+copied notebook, function, plot, and log to hw6_jacobmorrissey folder
+committed changes and pushed to github
+took a screenshot of the commit on github and added to handin folder
+sent the folder to a compressed folder
+
+*****OUT: Wed Sep 29 16:34:05 EDT 2021
+
+*****IN: Wed Oct 13 14:55:12 EDT 2021
+
+hw7
+problem 1
+made handin folder hw7_JacobMorrissey
+started new notebook hw7_JacobMorrissey
+problem 2
+didn't want to type out the full dictionary so i made a list of the words and populated the dict with a for loop
+problem 3
+couldn't think of a different way to use a while loop so i basically turned it into a for loop by incrementing a variable j
+problem 4
+used x % 2 to determine if a value is even or odd
+problem 5
+made the function to calculate all of the grades before realizing it should only return one student's
+function still calculates all of the grades but takes an input to chose which student's grade it outputs
+Problem 6
+added everything to the hw7_JacobMorrissey handin folder
+pushed to github
+took screenshot
+sent handin folder to compressed folder and submitted to webcourses
+
+*****OUT: Wed Oct 13 17:36:56 EDT 2021
+
+*****IN: Fri Oct 15 20:18:38 EDT 2021
+hw8
+problem 1
+made handin folder and started new notebook for hw 8
+problem 2
+only calculating the ellipse from the x values caused gaps in the ellipse
+doing 2 calculations from x and y and plotting them on top of each other gives one solid ellipse
+the axes made automatically by matplot are scaled such that each ellipse looks like a circle
+setting limits of both axes equal made the shape of the ellipse visible
+problem 3
+read the input array into a list so i can append and remove elements easier
+used a for loop to find the minimum value of the list
+nested the for loop in a while loop to remove the min and append to a new list until it is the same length as the input array
+returned the sorted list as an array using np.asarray
+checking with np.sort gives the same result
+problem 4
+using units of years and AU reduces kepler's law to P^2 = a^3
+kepler_3rd function only needs to do one operation a = P ** (2/3)
+had to change the position of the x ticks and rotate so the planet names were readable
+problem 5
+added everything to handin folder
+sent handin folder to compressed folder
+commited changes made for hw8 to github and pushed
+turned in zip file to webcourses.
+
+*****OUT: Fri Oct 15 22:44:52 EDT 2021
+
+*****IN: Wed Oct 27 23:44:30 EDT 2021
+
+HW9
+problem 1
+made handin folder
+problem 2
+this problem seems much easier using arrays
+having trouble getting the corresponding name after finding the max / min time
+read the keys of both dictionaries into separate lists
+after finding the index of max/min time i can just get the name with the same index in the list
+problem 3
+chose a problem from my analytical chemistry lab
+i need to find the endpoint of a titration by taking the derivative of the titration curve
+got an approximate derivative using np.ediff1d which takes the difference of consecutive elements in an array
+problem 4
+not sure when to use self and when to use a different variable
+changed self to box in all of the functions except init
+remember to call a function with object.function() NOT function(object)
+starting to figure out how to use booleans
+made a kind of modular sentence for the print_gift function with booleans.
+problem 5
+copying hw9 notebook and log into hw9 handin folder
+sending handin folder to zip folder from file explorer and submitting to webcourses
+committing and pushing changes to github
+
+*****OUT: Thu Oct 28 02:22:49 EDT 2021
+
+*****IN: Wed Nov  3 12:26:01 EDT 2021
+hw 10
+problem 1
+made handin folder and new notebook
+problem 2
+copied and pasted from last weeks homework:
+       not sure when to use self and when to use a different variable
+       changed self to box in all of the functions except init
+       remember to call a function with object.function() NOT function(object)
+       starting to figure out how to use booleans
+       made a kind of modular sentence for the print_gift function with booleans.
+problem 3
+made a new N x 3 array triples and populated with P V and T for each given V
+problem 4
+np.where can only handle one condition at a time
+x[ (x > 20) & (x < 40) ] works
+problem says to scan through the array for part b so i looped over np.where(z>0)
+having trouble with second part of part e
+because there are 16 elements where -0.16<z<0 and 17 where 0<y<0.2 it's causing an indexing error
+seems like it's trying to print 16 or 17 elements instead of the 16 x 17 array i want
+to slice both dimensions with different conditions i needed to use:
+data[ (z < 0) & (z > -0.16), :][:, (y > 0) & (y < 0.2)]
+this slices the y dimension first then slices the x dimension of the resulting array
+problem 5
+wasn't sure how to use the github team thing so i made a new team team 2 (?)
+didn't seem like anyone had made a team yet
+made a new branch for my code
+made a pull request and took a screenshot
+problem 6
+moved notebook, plot png, and github screenshot to handin folder
+sent to zip file
+commited and pushed changes to github
+
+*****OUT: Wed Nov  3 15:44:20 EDT 2021
+
+*****IN: Wed Nov 17 16:41:53 EST 2021
+
+hw11
+problem 1
+made handin folder hw11_JacobMorrissey
+
+problem 2
+used same x values from data to calculate y values for the line
+made a 2D array with the relative difference in y values for each value of a and b
+found minimum value and a and b valuess with corresponding indices
+this method won't find the absolute best fit but will find the best fit to a certain level of accuracy
+
+problem 3
+a) just copied the formula from the problem
+
+b) looped over keys of input dictionary and populated a new dict with the same keys and with values 1 divided by the input values
+
+c) checks whether the first element of a list is a string, if so uses that list as keys and the other list for values
+
+d) for some reason np.shape only returns one value if the array has only one row
+have to check both arrays then make new variables to represent the shapes of the arrays
+also having trouble slicing when one of the arrays is 1 row
+need to add another if statement
+would have been a lot simpler if numpy didn't treat single row arrays so differently
+
+problem 4
+sent handin folder to zip file
+committed and pushed changes to github
+submitted to webcourses
+
+***** OUT Wed Nov 17 19:39:42 EST 2021
+
+***** IN Tue Dec 7 20:21:44 EST 2021
+
+Final
+
+made handin folder final_JacobMorrissey
+
+problem 1
+imported nump matplotlib and axes3d
+
+problem 3
+getting an error when i try to open the_blue_book.dat
+adding encoding = 'utf8' fixed it
+
+problem 4
+graphed the data upside down using data[::-1]
+looks like a 9
+only two levels are being plotted when using contourf
+using contour all three are plotted and it's still a 9
+
+problem 6
+found a new function np.argsort()
+using np.argsort(time) gives an array of the correct indices to sort the array
+distance[ np.argsort(time) ] and err[ np.argsort(time) ] gives the correct sorting
+
+problem 8
+used np.where( intensity == np.max( intensity ) ) to find the indices of the peaks
+the perios of a full rotation is just twice the distance between peaks
+
+problem 10
+using np.matmul and np.trace gave 42 which factors into 6 and 7
+the data from part 2 are very close to the values for jupiter
+
+problem 12
+the password isn't working but i'm struggling to find any more bugs
+tried brute forcing some of the numbers i'm less sure about but still didn't get it
+checked problems 3 5 7 8 and 10 again by hand
+checked problem 6 using scipy curve fit
+everything seems to be working but password is still wrong
+
+copied notebook and log to handin folder
+committed and pushing changes to github
+sent handin folder to zip file and submitted to webcourses
+
+***** OUT Wed Dec  8 01:12:55 EST 2021

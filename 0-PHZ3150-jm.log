@@ -472,3 +472,48 @@ committed and pushed changes to github
 submitted to webcourses
 
 ***** OUT Wed Nov 17 19:39:42 EST 2021
+
+***** IN Tue Dec 7 20:21:44 EST 2021
+
+Final
+
+made handin folder final_JacobMorrissey
+
+problem 1
+imported nump matplotlib and axes3d
+
+problem 3
+getting an error when i try to open the_blue_book.dat
+adding encoding = 'utf8' fixed it
+
+problem 4
+graphed the data upside down using data[::-1]
+looks like a 9
+only two levels are being plotted when using contourf
+using contour all three are plotted and it's still a 9
+
+problem 6
+found a new function np.argsort()
+using np.argsort(time) gives an array of the correct indices to sort the array
+distance[ np.argsort(time) ] and err[ np.argsort(time) ] gives the correct sorting
+
+problem 8
+used np.where( intensity == np.max( intensity ) ) to find the indices of the peaks
+the perios of a full rotation is just twice the distance between peaks
+
+problem 10
+using np.matmul and np.trace gave 42 which factors into 6 and 7
+the data from part 2 are very close to the values for jupiter
+
+problem 12
+the password isn't working but i'm struggling to find any more bugs
+tried brute forcing some of the numbers i'm less sure about but still didn't get it
+checked problems 3 5 7 8 and 10 again by hand
+checked problem 6 using scipy curve fit
+everything seems to be working but password is still wrong
+
+copied notebook and log to handin folder
+committed and pushing changes to github
+sent handin folder to zip file and submitted to webcourses
+
+***** OUT Wed Dec  8 01:12:55 EST 2021
